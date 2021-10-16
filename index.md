@@ -59,3 +59,5 @@ Found: jewel : magic ( jewel )
 Found: sur rune : rare ( suboniee )
 
 
+Found: large charm : magic ( large charm )
+
