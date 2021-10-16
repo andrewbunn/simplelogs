@@ -295,3 +295,4 @@ Found: ring : rare ( ring )
 merc dead. character died? just exit for now
 Found: amulet : rare ( amulet )
 Found: jewel : magic ( jewels oe )
+Found: small charm : magic ( small charm )
