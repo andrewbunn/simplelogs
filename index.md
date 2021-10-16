@@ -51,3 +51,7 @@ Found: death mask : set ( g gold death mask )
 Found: amulet : rare ( amulet )
 
 
+Found: grand crown : unique ( grand crown )
+Found: flawless skull : white ( flawless skull )
+Found: jewel : magic ( jewel )
+
