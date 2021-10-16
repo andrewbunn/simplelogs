@@ -254,3 +254,5 @@ Found: jewel : rare ( jewel )
 merc dead. character died? just exit for now
 Found: zod rune : white ( gold supe )
 Found: large charm : magic ( large charm )
+Found: bone visage : set ( bone visage )
+Found: flawless sapphire : white ( flawless sapphirep )
