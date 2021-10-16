@@ -92,3 +92,6 @@ Found: amulet : rare ( amulet )
 
 Found: amn rune : white ( amn rune )
 
+Found: flawless topaz : white ( flawless topaz )
+Found: flawless topaz : white ( flawless topaz q tay gold )
+
