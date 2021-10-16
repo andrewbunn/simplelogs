@@ -6,3 +6,5 @@ Logging data
 
 
 test
+start run
+
