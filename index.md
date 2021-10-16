@@ -257,3 +257,4 @@ Found: large charm : magic ( large charm )
 Found: bone visage : set ( bone visage )
 Found: flawless sapphire : white ( flawless sapphirep )
 Found: flawless skull : white ( a flawless skul )
+d2 lobby never loaded
