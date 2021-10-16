@@ -128,3 +128,4 @@ Found: coronet : rare ( coronet q )
 Found: death mask : set ( death mask )
 Found: small charm : magic ( small charm )
 
+Found: ring : rare ( ring )
