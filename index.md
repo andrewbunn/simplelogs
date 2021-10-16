@@ -94,3 +94,6 @@ Found: sur rune : white ( super a seal )
 
 
 
+Found: hel rune : white ( hel rune )
+Found: coronet : rare ( coronet )
+
