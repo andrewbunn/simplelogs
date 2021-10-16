@@ -29,3 +29,6 @@ Found: sharkskin boots : unique ( sharkskin boots )
 Found: small charm : magic ( small charm )
 
 
+Found: flawless ruby : white ( flawless ruby )
+Found: small charm : magic ( chain mail small charms )
+
