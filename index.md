@@ -71,3 +71,5 @@ Found: jewel : magic ( jewel )
 Found: flawless amethyst : white ( flawless amethyst )
 Found: large charm : magic ( large charm )
 
+Found: flawless sapphire : white ( flawless sapphire )
+
