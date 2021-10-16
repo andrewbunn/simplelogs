@@ -80,3 +80,6 @@ Found: flawless topaz : white ( elawless topaz )
 Found: ward : unique ( aed )
 
 
+Found: small charm : magic ( s small charm )
+Found: small charm : magic ( small charm )
+
