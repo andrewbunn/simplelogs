@@ -252,3 +252,5 @@ Found: ring : rare ( ring )
 Found: jewel : rare ( jewel )
 Found: jewel : rare ( jewel )
 merc dead. character died? just exit for now
+Found: zod rune : white ( gold supe )
+Found: large charm : magic ( large charm )
