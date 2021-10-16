@@ -119,3 +119,5 @@ Found: flawless skull : white ( flawless skull )
 
 Found: ring : rare ( a ring )
 
+Found: large charm : magic ( large charm )
+
