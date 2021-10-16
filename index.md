@@ -66,3 +66,5 @@ Found: flawless emerald : white ( blawicss emerald )
 
 Found: amulet : rare ( amulet )
 
+Found: jewel : magic ( jewel )
+
