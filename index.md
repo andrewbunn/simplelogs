@@ -107,3 +107,5 @@ Found: jewel : gray ( he ee )
 
 
 
+Found: sur rune : white ( super mana )
+
