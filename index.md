@@ -125,3 +125,6 @@ Found: sol rune : white ( sol rune )
 
 Found: sur rune : white ( super mane )
 
+Found: ring : rare ( rin )
+Found: sur rune : white ( super meer ate )
+
