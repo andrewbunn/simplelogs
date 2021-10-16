@@ -61,3 +61,6 @@ Found: sur rune : rare ( suboniee )
 
 Found: large charm : magic ( large charm )
 
+Found: ring : rare ( ring )
+Found: flawless emerald : white ( blawicss emerald )
+
