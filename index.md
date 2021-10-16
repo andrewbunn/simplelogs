@@ -293,3 +293,5 @@ Found: perfect ruby : white ( super peal cucu )
 Found: flawless emerald : white ( flawless emerald )
 Found: ring : rare ( ring )
 merc dead. character died? just exit for now
+Found: amulet : rare ( amulet )
+Found: jewel : magic ( jewels oe )
