@@ -48,3 +48,5 @@ Found: death mask : set ( g gold death mask )
 
 
 
+Found: amulet : rare ( amulet )
+
