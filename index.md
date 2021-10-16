@@ -115,3 +115,6 @@ Found: ward : unique ( aed )
 Found: ward : unique ( was )
 Found: small charm : magic ( double axe small charm )
 
+Found: flawless skull : white ( flawless slulselle )
+Found: ring : rare ( ring )
+
