@@ -71,3 +71,5 @@ Found: flawless topaz : white ( flawless topaz )
 Found: amulet : rare ( amulet )
 
 
+Found: flawless emerald : white ( flawless emerald f )
+
