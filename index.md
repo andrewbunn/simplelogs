@@ -112,3 +112,6 @@ Found: amulet : rare ( amulet )
 
 Found: ward : unique ( aed )
 
+Found: ward : unique ( was )
+Found: small charm : magic ( double axe small charm )
+
