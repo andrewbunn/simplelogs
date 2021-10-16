@@ -56,3 +56,5 @@ Found: flawless skull : white ( flawless skull )
 Found: jewel : magic ( jewel )
 
 
+Found: sur rune : rare ( suboniee )
+
