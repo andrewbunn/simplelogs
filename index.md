@@ -32,3 +32,6 @@ Found: small charm : magic ( small charm )
 Found: flawless ruby : white ( flawless ruby )
 Found: small charm : magic ( chain mail small charms )
 
+Found: ring : rare ( ring )
+Found: grand charm : magic ( grand charm )
+
