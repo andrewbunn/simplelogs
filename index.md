@@ -129,3 +129,4 @@ Found: death mask : set ( death mask )
 Found: small charm : magic ( small charm )
 
 Found: ring : rare ( ring )
+Found: large charm : magic ( large charm )
