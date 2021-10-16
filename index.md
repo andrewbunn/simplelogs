@@ -87,3 +87,5 @@ Found: tiara : rare ( tie s )
 Found: ral rune : white ( ral rune )
 Found: amulet : rare ( amulet )
 
+Found: large charm : magic ( large charm )
+
