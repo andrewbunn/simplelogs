@@ -27,3 +27,5 @@ Found: thresher : unique ( thresher )
 
 
 
+Found: coronet : rare ( coronet )
+
