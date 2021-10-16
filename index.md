@@ -17,3 +17,6 @@ merc dead. character died? just exit for now
 
 Found: ring : rare ( ring )
 
+Found: flawless ruby : white ( flawless ruby )
+Found: sacred targe : white ( acoed aliens )
+
