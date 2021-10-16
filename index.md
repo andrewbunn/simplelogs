@@ -113,3 +113,6 @@ Found: flawless emerald : white ( flawless emerald )
 
 
 
+Found: flawless amethyst : white ( flawless amethyst )
+Found: flawless skull : white ( flawless skull )
+
