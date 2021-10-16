@@ -22,3 +22,5 @@ Found: sacred targe : white ( acoed aliens )
 
 Found: small charm : magic ( small charm )
 
+Found: thresher : unique ( thresher )
+
