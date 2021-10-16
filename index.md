@@ -90,3 +90,5 @@ Found: thresher : gray ( thresher )
 
 Found: amulet : rare ( amulet )
 
+Found: amn rune : white ( amn rune )
+
