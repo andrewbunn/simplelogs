@@ -128,3 +128,6 @@ Found: sur rune : white ( super mane )
 Found: ring : rare ( rin )
 Found: sur rune : white ( super meer ate )
 
+Found: shako : unique ( sak )
+Found: small charm : magic ( small charm )
+
