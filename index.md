@@ -105,3 +105,6 @@ Found: jewel : white ( oe al )
 
 Found: sur rune : white ( super able po )
 
+Found: small charm : magic ( small nam )
+Found: amulet : rare ( amulet )
+
