@@ -103,3 +103,5 @@ Found: ring : rare ( ring )
 Found: flawless emerald : white ( flawless emerald )
 Found: jewel : white ( oe al )
 
+Found: sur rune : white ( super able po )
+
