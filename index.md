@@ -133,3 +133,6 @@ Found: small charm : magic ( small charm )
 
 Found: flawless ruby : white ( flawless ruby )
 
+Found: large charm : magic ( date charm )
+Found: jewel : white ( ewe )
+
