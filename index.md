@@ -130,3 +130,4 @@ Found: small charm : magic ( small charm )
 
 Found: ring : rare ( ring )
 Found: large charm : magic ( large charm )
+Found: large charm : magic ( large charm )
