@@ -19,3 +19,4 @@ start run
 start run
 Found: amn rune : white ( amn rune )
 
+
