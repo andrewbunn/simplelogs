@@ -83,3 +83,7 @@ Found: ward : unique ( aed )
 Found: small charm : magic ( s small charm )
 Found: small charm : magic ( small charm )
 
+Found: tiara : rare ( tie s )
+Found: ral rune : white ( ral rune )
+Found: amulet : rare ( amulet )
+
