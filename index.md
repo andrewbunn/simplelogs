@@ -131,3 +131,5 @@ Found: sur rune : white ( super meer ate )
 Found: shako : unique ( sak )
 Found: small charm : magic ( small charm )
 
+Found: flawless ruby : white ( flawless ruby )
+
