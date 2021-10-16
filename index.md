@@ -38,3 +38,6 @@ Found: flawless sapphire : white ( flawless sapphire )
 
 
 
+Found: flawless emerald : white ( flawless emerald )
+Found: flawless emerald : white ( flawless emerald )
+
