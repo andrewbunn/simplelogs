@@ -118,3 +118,5 @@ Found: small charm : magic ( double axe small charm )
 Found: flawless skull : white ( flawless slulselle )
 Found: ring : rare ( ring )
 
+Found: flawless topaz : white ( flawless topaz )
+
