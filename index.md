@@ -302,3 +302,4 @@ d2 lobby never loaded
 Found: demonhide sash : unique ( demonhide sash )
 Found: flawless sapphire : white ( flawless sapphire t )
 Found: flawless ruby : white ( flawless ruby )
+Found: grand charm : magic ( grand charm )
