@@ -117,3 +117,5 @@ Found: flawless amethyst : white ( flawless amethyst )
 Found: flawless skull : white ( flawless skull )
 
 
+Found: ring : rare ( a ring )
+
