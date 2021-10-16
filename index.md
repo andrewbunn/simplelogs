@@ -299,3 +299,6 @@ Found: small charm : magic ( small charm )
 Found: ring : rare ( ring )
 Found: small charm : magic ( small charm )
 d2 lobby never loaded
+Found: demonhide sash : unique ( demonhide sash )
+Found: flawless sapphire : white ( flawless sapphire t )
+Found: flawless ruby : white ( flawless ruby )
