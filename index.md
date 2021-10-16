@@ -36,3 +36,7 @@ Found: ring : rare ( ring )
 Found: grand charm : magic ( grand charm )
 
 
+Found: flawless diamond : white ( flawless diamond )
+Found: phase blade : white ( long sword phase blade )
+Found: coronet : rare ( coronet )
+
