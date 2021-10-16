@@ -20,3 +20,5 @@ Found: ring : rare ( ring )
 Found: flawless ruby : white ( flawless ruby )
 Found: sacred targe : white ( acoed aliens )
 
+Found: small charm : magic ( small charm )
+
