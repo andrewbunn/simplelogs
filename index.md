@@ -64,3 +64,5 @@ Found: large charm : magic ( large charm )
 Found: ring : rare ( ring )
 Found: flawless emerald : white ( blawicss emerald )
 
+Found: amulet : rare ( amulet )
+
