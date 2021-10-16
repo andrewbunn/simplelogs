@@ -48,3 +48,6 @@ Found: flawless topaz : white ( flawless topaz )
 Found: jewel : white ( heel )
 Found: um rune : gray ( dp rena )
 
+Found: sur rune : white ( super man )
+Found: flawless emerald : white ( flawless emerald )
+
