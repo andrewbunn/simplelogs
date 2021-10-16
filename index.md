@@ -59,3 +59,5 @@ start run
 
 
 
+Found: small charm : magic ( small charm )
+
