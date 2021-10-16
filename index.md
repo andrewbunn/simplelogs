@@ -298,3 +298,4 @@ Found: jewel : magic ( jewels oe )
 Found: small charm : magic ( small charm )
 Found: ring : rare ( ring )
 Found: small charm : magic ( small charm )
+d2 lobby never loaded
