@@ -10,3 +10,6 @@ game never loaded
 
 Found: grand charm : magic ( grand charm )
 
+Found: flawless emerald : white ( flawless emerald )
+Found: flawless skull : white ( flawless skull )
+
