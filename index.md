@@ -319,3 +319,4 @@ Found: jewel : rare ( jewel )
 Found: flawless topaz : white ( flawless topaz )
 Found: ring : rare ( ring )
 Found: large charm : magic ( large charm )
+d2 lobby never loaded
