@@ -68,3 +68,6 @@ Found: amulet : rare ( amulet )
 
 Found: jewel : magic ( jewel )
 
+Found: flawless amethyst : white ( flawless amethyst )
+Found: large charm : magic ( large charm )
+
