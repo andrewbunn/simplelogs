@@ -120,3 +120,5 @@ Found: ring : rare ( ring )
 
 Found: flawless topaz : white ( flawless topaz )
 
+Found: sol rune : white ( sol rune )
+
