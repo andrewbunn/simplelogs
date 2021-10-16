@@ -15,3 +15,5 @@ Found: flawless skull : white ( flawless skull )
 
 merc dead. character died? just exit for now
 
+Found: ring : rare ( ring )
+
