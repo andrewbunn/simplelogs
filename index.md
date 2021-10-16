@@ -249,3 +249,6 @@ Found: flawless skull : white ( flawless skull )
 Found: flawless ruby : white ( flawless ruby )
 Found: small charm : magic ( small charm )
 Found: ring : rare ( ring )
+Found: jewel : rare ( jewel )
+Found: jewel : rare ( jewel )
+merc dead. character died? just exit for now
