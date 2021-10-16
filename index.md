@@ -261,3 +261,4 @@ d2 lobby never loaded
 Found: ring : rare ( ring )
 Found: flawless topaz : white ( flawless topaz )
 Found: jewel : magic ( jewel )
+Found: flawless emerald : white ( flawless emerald chain gloves )
