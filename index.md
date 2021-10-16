@@ -123,3 +123,5 @@ Found: flawless topaz : white ( flawless topaz )
 Found: sol rune : white ( sol rune )
 
 
+Found: sur rune : white ( super mane )
+
