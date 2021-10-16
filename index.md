@@ -40,3 +40,5 @@ Found: flawless diamond : white ( flawless diamond )
 Found: phase blade : white ( long sword phase blade )
 Found: coronet : rare ( coronet )
 
+Found: small charm : magic ( small charms )
+
