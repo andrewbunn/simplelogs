@@ -291,3 +291,5 @@ Found: ring : rare ( ring )
 Found: mighty scepter : unique ( mighty scepter )
 Found: perfect ruby : white ( super peal cucu )
 Found: flawless emerald : white ( flawless emerald )
+Found: ring : rare ( ring )
+merc dead. character died? just exit for now
