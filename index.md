@@ -98,3 +98,6 @@ Found: flawless topaz : white ( flawless topaz q tay gold )
 
 Found: amulet : rare ( amulet )
 
+Found: ring : rare ( rings )
+Found: large charm : magic ( large charm )
+
