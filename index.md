@@ -26,3 +26,5 @@ d2 lobby never loaded
 start run
 Found: sharkskin boots : unique ( sharkskin boots )
 
+Found: small charm : magic ( small charm )
+
