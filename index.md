@@ -88,3 +88,5 @@ Found: thresher : gray ( thresher )
 
 
 
+Found: amulet : rare ( amulet )
+
