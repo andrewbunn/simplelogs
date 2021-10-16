@@ -45,3 +45,6 @@ Found: small charm : magic ( small charms )
 Found: flawless topaz : white ( flawless topaz )
 Found: flawless topaz : white ( flawless topaz )
 
+Found: jewel : white ( heel )
+Found: um rune : gray ( dp rena )
+
