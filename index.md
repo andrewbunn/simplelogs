@@ -258,3 +258,6 @@ Found: bone visage : set ( bone visage )
 Found: flawless sapphire : white ( flawless sapphirep )
 Found: flawless skull : white ( a flawless skul )
 d2 lobby never loaded
+Found: ring : rare ( ring )
+Found: flawless topaz : white ( flawless topaz )
+Found: jewel : magic ( jewel )
