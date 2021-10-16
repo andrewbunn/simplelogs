@@ -98,3 +98,8 @@ Found: hel rune : white ( hel rune )
 Found: coronet : rare ( coronet )
 
 
+Found: sur rune : white ( super hea )
+Found: ring : rare ( ring )
+Found: flawless emerald : white ( flawless emerald )
+Found: jewel : white ( oe al )
+
