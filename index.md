@@ -75,3 +75,7 @@ Found: flawless emerald : white ( flawless emerald f )
 
 
 
+Found: amulet : unique ( amulet )
+Found: flawless topaz : white ( elawless topaz )
+Found: ward : unique ( aed )
+
