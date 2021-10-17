@@ -620,3 +620,5 @@ game never loaded
 game never loaded
 Found: flawless diamond : white ( g amethyst pee flawless diamond )
 Found: ring : rare ( ring )
+Found: flawless amethyst : white ( flawless amethyst )
+Found: amulet : rare ( amulet )
