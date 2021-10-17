@@ -618,3 +618,4 @@ Found: sacred targe : white ( s seat targe )
 Found: large charm : magic ( large charm )
 game never loaded
 game never loaded
+Found: flawless diamond : white ( g amethyst pee flawless diamond )
