@@ -430,3 +430,6 @@ Found: ring : rare ( ring )
 Found: tiara : rare ( tiara )
 d2 lobby never loaded
 Found: ring : rare ( ring )
+Found: grand charm : magic ( grand charm )
+Found: flawless amethyst : white ( flawless amethyst )
+Found: flawless sapphire : white ( flawless sapphire )
