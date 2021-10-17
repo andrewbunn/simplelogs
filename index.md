@@ -344,3 +344,5 @@ Found: amn rune : white ( amn rune )
 Found: ring : rare ( ring )
 Found: zod rune : white ( cop re )
 merc dead. character died? just exit for now
+Found: flawless amethyst : white ( flawless amethyst )
+Found: flawless emerald : white ( flawless emerald )
