@@ -357,3 +357,5 @@ game never loaded
 Found: grand charm : magic ( grand charm )
 Found: jewel : white ( oe er )
 Found: flawless sapphire : white ( flawless sapphire )
+Found: shael rune : white ( arrows hel rune )
+Found: amulet : rare ( amulet )
