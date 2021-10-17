@@ -625,3 +625,4 @@ Found: amulet : rare ( amulet )
 Found: small charm : magic ( small charme )
 Found: ral rune : white ( ral rune )
 game never loaded
+Found: flawless amethyst : white ( flawless amethyst )
