@@ -636,3 +636,4 @@ Found: flawless emerald : white ( flawless emerald )
 Found: grand charm : magic ( grand charm )
 Found: ral rune : white ( ral rune )
 Found: flawless sapphire : white ( flawless sapphire )
+d2 lobby never loaded
