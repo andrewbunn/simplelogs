@@ -352,3 +352,4 @@ Found: jewel : magic ( jewel j )
 Found: amulet : rare ( famulet )
 Found: jewel : gray ( ne il )
 game never loaded
+game never loaded
