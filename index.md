@@ -347,3 +347,5 @@ merc dead. character died? just exit for now
 Found: flawless amethyst : white ( flawless amethyst )
 Found: flawless emerald : white ( flawless emerald )
 Found: flawless diamond : white ( flawless diamond )
+Found: flawless ruby : white ( flawless ruby )
+Found: jewel : magic ( jewel j )
