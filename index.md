@@ -341,3 +341,6 @@ Found: small charm : magic ( small charm )
 Found: troll belt : rare ( troll belt )
 Found: flawless sapphire : white ( flawless sapphire )
 Found: amn rune : white ( amn rune )
+Found: ring : rare ( ring )
+Found: zod rune : white ( cop re )
+merc dead. character died? just exit for now
