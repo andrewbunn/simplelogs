@@ -429,3 +429,4 @@ Found: flawless diamond : white ( flawless diamond )
 Found: ring : rare ( ring )
 Found: tiara : rare ( tiara )
 d2 lobby never loaded
+Found: ring : rare ( ring )
