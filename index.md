@@ -627,3 +627,5 @@ Found: ral rune : white ( ral rune )
 game never loaded
 Found: flawless amethyst : white ( flawless amethyst )
 Found: amn rune : white ( amn rune )
+Found: flawless amethyst : white ( flawless amethyst )
+Found: flawless amethyst : white ( flawless amethyst )
