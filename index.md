@@ -350,3 +350,5 @@ Found: flawless diamond : white ( flawless diamond )
 Found: flawless ruby : white ( flawless ruby )
 Found: jewel : magic ( jewel j )
 Found: amulet : rare ( famulet )
+Found: jewel : gray ( ne il )
+game never loaded
