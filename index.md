@@ -751,3 +751,4 @@ d2 lobby never loaded
 Found: large charm : magic ( large charmbs )
 Found: large charm : magic ( large charm )
 Found: sur rune : white ( superior cudgel )
+Found: ring : rare ( ring )
