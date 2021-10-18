@@ -643,3 +643,4 @@ Found: ring : rare ( ring )
 Found: flawless sapphire : white ( flawless sapphire te a )
 Found: ring : rare ( peng )
 Found: flawless sapphire : white ( flawless sapphire )
+game never loaded
