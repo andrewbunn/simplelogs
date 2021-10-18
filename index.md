@@ -665,3 +665,4 @@ Found: flawless sapphire : white ( flawless sapphire )
 Found: flawless sapphire : white ( flawless sapphire )
 Found: troll belt : rare ( troll belt )
 Found: flawless sapphire : white ( flawless sapphire )
+game never loaded
