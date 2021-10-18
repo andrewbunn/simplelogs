@@ -744,3 +744,7 @@ Found: grand charm : magic ( grand char )
 Found: tiara : unique ( tiara )
 Found: flawless amethyst : white ( flawless amethyst )
 Found: large charm : magic ( large charm )
+Found: pul rune : magic ( pindlerun )
+Found: zod rune : unique ( fo cc run by ccd xe )
+Found: pul rune : magic ( pindlerun )
+d2 lobby never loaded
