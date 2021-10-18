@@ -637,3 +637,5 @@ Found: grand charm : magic ( grand charm )
 Found: ral rune : white ( ral rune )
 Found: flawless sapphire : white ( flawless sapphire )
 d2 lobby never loaded
+Found: jewel : rare ( jewel )
+Found: io rune : white ( io sv a )
