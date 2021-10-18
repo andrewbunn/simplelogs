@@ -647,3 +647,4 @@ game never loaded
 game never loaded
 game never loaded
 Found: flawless amethyst : white ( flawless amethyst )
+Found: lum rune : white ( lum rune )
