@@ -670,3 +670,4 @@ Found: flawless emerald : white ( flawless emerald )
 Found: ring : rare ( ring )
 Found: um rune : magic ( mitnneoi )
 Found: kraken shell : set ( kraken shell )
+d2 lobby never loaded
