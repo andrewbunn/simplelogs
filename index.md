@@ -673,3 +673,5 @@ Found: kraken shell : set ( kraken shell )
 d2 lobby never loaded
 Found: aegis : unique ( aegis )
 Found: sur rune : white ( super mana )
+Found: flawless ruby : white ( flawless ruby )
+Found: lum rune : white ( lum rune )
