@@ -668,3 +668,4 @@ Found: flawless sapphire : white ( flawless sapphire )
 game never loaded
 Found: flawless emerald : white ( flawless emerald )
 Found: ring : rare ( ring )
+Found: um rune : magic ( mitnneoi )
