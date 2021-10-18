@@ -748,3 +748,5 @@ Found: pul rune : magic ( pindlerun )
 Found: zod rune : unique ( fo cc run by ccd xe )
 Found: pul rune : magic ( pindlerun )
 d2 lobby never loaded
+Found: large charm : magic ( large charmbs )
+Found: large charm : magic ( large charm )
