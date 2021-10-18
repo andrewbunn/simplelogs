@@ -648,3 +648,6 @@ game never loaded
 game never loaded
 Found: flawless amethyst : white ( flawless amethyst )
 Found: lum rune : white ( lum rune )
+Found: ring : rare ( ring )
+Found: ring : rare ( ring )
+Found: mithril coil : unique ( mithril coils )
