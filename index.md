@@ -639,3 +639,4 @@ Found: flawless sapphire : white ( flawless sapphire )
 d2 lobby never loaded
 Found: jewel : rare ( jewel )
 Found: io rune : white ( io sv a )
+Found: ring : rare ( ring )
