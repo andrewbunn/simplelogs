@@ -753,3 +753,7 @@ Found: large charm : magic ( large charm )
 Found: sur rune : white ( superior cudgel )
 Found: ring : rare ( ring )
 Found: sur rune : white ( super he )
+Found: zod rune : unique ( fo cc run by ccd xe )
+Found: vex rune : unique ( fe cc run by cc i ce )
+Found: vex rune : unique ( fe cc run by cc i ce )
+d2 lobby never loaded
