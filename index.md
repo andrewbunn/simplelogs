@@ -822,3 +822,6 @@ Found: small charm : magic ( small charm )
 Found: cryptic axe : unique ( a cryptic axe ee )
 game never loaded
 Found: flawless sapphire : white ( flawless sapphire )
+Found: diadem : rare ( diadem )
+Found: grand charm : magic ( grand charme )
+Found: jewel : white ( heel )
