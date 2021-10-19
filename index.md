@@ -764,3 +764,6 @@ d2 lobby never loaded
 Found: flawless amethyst : white ( flawless amethyst )
 Found: ring : rare ( ring )
 game never loaded
+Found: amulet : rare ( amulet )
+Found: amulet : rare ( amulet )
+Found: jewel : white ( de eck )
