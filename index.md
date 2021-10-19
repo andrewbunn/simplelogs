@@ -895,3 +895,4 @@ Found: flawless topaz : white ( flawless topaz )
 Found: amulet : rare ( a emselugy )
 Found: large charm : magic ( ilarge charm )
 Found: jewel : white ( oe eg )
+game never loaded
