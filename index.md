@@ -821,3 +821,4 @@ Found: flawless diamond : white ( flawless diamond )
 Found: small charm : magic ( small charm )
 Found: cryptic axe : unique ( a cryptic axe ee )
 game never loaded
+Found: flawless sapphire : white ( flawless sapphire )
