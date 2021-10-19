@@ -767,3 +767,5 @@ game never loaded
 Found: amulet : rare ( amulet )
 Found: amulet : rare ( amulet )
 Found: jewel : white ( de eck )
+Found: flawless amethyst : white ( flawless amethyst )
+Found: flawless amethyst : white ( flawless amethyst )
