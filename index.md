@@ -898,3 +898,4 @@ Found: jewel : white ( oe eg )
 game never loaded
 game never loaded
 game never loaded
+d2 lobby never loaded
