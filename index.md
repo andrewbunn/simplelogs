@@ -757,3 +757,7 @@ Found: zod rune : unique ( fo cc run by ccd xe )
 Found: vex rune : unique ( fe cc run by cc i ce )
 Found: vex rune : unique ( fe cc run by cc i ce )
 d2 lobby never loaded
+Found: zod rune : unique ( fo cc run by ccd xe )
+Found: vex rune : unique ( fe cc run by cc i ce )
+Found: war pike : unique ( fun time )
+d2 lobby never loaded
