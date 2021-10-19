@@ -763,3 +763,4 @@ Found: war pike : unique ( fun time )
 d2 lobby never loaded
 Found: flawless amethyst : white ( flawless amethyst )
 Found: ring : rare ( ring )
+game never loaded
