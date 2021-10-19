@@ -761,3 +761,5 @@ Found: zod rune : unique ( fo cc run by ccd xe )
 Found: vex rune : unique ( fe cc run by cc i ce )
 Found: war pike : unique ( fun time )
 d2 lobby never loaded
+Found: flawless amethyst : white ( flawless amethyst )
+Found: ring : rare ( ring )
