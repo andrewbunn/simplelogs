@@ -819,3 +819,5 @@ Found: ring : rare ( ring )
 Found: large charm : magic ( s large charmb )
 Found: flawless diamond : white ( flawless diamond )
 Found: small charm : magic ( small charm )
+Found: cryptic axe : unique ( a cryptic axe ee )
+game never loaded
