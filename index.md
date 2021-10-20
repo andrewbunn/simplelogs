@@ -973,3 +973,4 @@ Found: ist rune : white ( is continue )
 Found: cham rune : white ( c to continue )
 Found: lo rune : white ( to continue )
 merc dead. character died?
+merc dead. character died?
