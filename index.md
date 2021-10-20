@@ -1256,3 +1256,4 @@ Found: jewel : magic ( need )
 Found: sur rune : white ( super hea )
 Found: flawless ruby : white ( flawless ruby )
 merc dead. character died?
+revive merc failed, try in new game
