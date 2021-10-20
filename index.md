@@ -899,3 +899,11 @@ game never loaded
 game never loaded
 game never loaded
 d2 lobby never loaded
+Found: unearthed wand : unique ( d lobby never loaded  endlj )
+Found: lem rune : set ( dlefailure )
+Found: lo rune : unique ( lerunner )
+Found: pul rune : white ( pindlerunnerd )
+Found: lo rune : white ( lerupnen )
+Found: pul rune : white ( pindlerunnerd )
+Found: lo rune : white ( lerupnen )
+d2 lobby never loaded
