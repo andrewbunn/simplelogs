@@ -1107,3 +1107,4 @@ Found: amulet : rare ( amulet )
 Found: jewel : white ( vedied )
 Found: lo rune : white ( oo continue )
 merc dead. character died?
+Found: flawless emerald : white ( flawless i emerald )
