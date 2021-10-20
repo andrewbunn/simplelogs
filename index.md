@@ -1202,3 +1202,6 @@ Found: large charm : magic ( large charm )
 Found: grand charm : magic ( grand charm )
 Found: jewel : white ( eere )
 game never loaded
+Found: large charm : magic ( large charm )
+Found: ral rune : white ( ral runel pilum )
+Found: ring : unique ( eng )
