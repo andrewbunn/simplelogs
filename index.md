@@ -1006,3 +1006,5 @@ Found: grand charm : magic ( grand charm )
 Found: perfect diamond : white ( superior coatial gold )
 Found: jewel : magic ( jewel )
 Found: ring : unique ( aig )
+Found: jewel : rare ( jewel )
+merc dead. character died?
