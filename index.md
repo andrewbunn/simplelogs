@@ -1072,3 +1072,4 @@ merc dead. character died?
 merc dead. character died?
 Found: cryptic axe : gray ( ficchati axes )
 Found: flawless sapphire : white ( flawless sapphire )
+Found: perfect topaz : white ( press esc to continue )
