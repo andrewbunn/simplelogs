@@ -1061,3 +1061,10 @@ Found: gul rune : white ( ul rune )
 Found: key of destruction : magic ( key of f destructionl )
 merc dead. character died?
 merc dead. character died?
+Found: ber rune : white ( eee eae )
+Found: jewel : magic ( jewe )
+Found: key of destruction : white ( si of destruction )
+Found: jewel : magic ( jewe )
+Found: key of destruction : white ( key of destruction )
+Found: flawless topaz : white ( flawless dia )
+merc dead. character died?
