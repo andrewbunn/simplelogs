@@ -1186,3 +1186,8 @@ merc dead. character died?
 Found: jewel : gray ( ween )
 Found: ring : rare ( rin )
 Found: small charm : magic ( small charm )
+Found: hel rune : white ( ssp hel rune )
+Found: ring : rare ( rie )
+Found: flawless skull : white ( flawless skull )
+Found: ring : unique ( ties )
+Found: flawless ruby : white ( flawless ruby )
