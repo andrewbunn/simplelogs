@@ -1174,3 +1174,5 @@ Found: jewel : white ( vedied )
 Found: jewel : white ( ewer )
 Found: vex rune : white ( ve died )
 merc dead. character died?
+Found: sacred targe : white ( sacred targe )
+Found: jewel : white ( epenee )
