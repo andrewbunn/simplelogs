@@ -1045,3 +1045,4 @@ Found: ral rune : white ( ral rune )
 Found: key of destruction : white ( key of destruction )
 Found: ral rune : white ( ral rune )
 merc dead. character died?
+Found: lo rune : white ( melo runer )
