@@ -1229,3 +1229,4 @@ Found: lo rune : unique ( loading )
 Found: jewel : white ( gees )
 merc dead. character died?
 merc dead. character died?
+merc dead. character died?
