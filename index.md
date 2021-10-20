@@ -1051,3 +1051,9 @@ merc dead. character died?
 Found: sur rune : white ( syren te )
 Found: flawless emerald : white ( s lawless emerald )
 Found: ber rune : white ( reju ms na )
+Found: tiara : rare ( paras )
+Found: jewel : white ( vedied )
+Found: lo rune : white ( to continue )
+Found: lo rune : white ( to continue )
+Found: jewel : gray ( hefinel )
+merc dead. character died?
