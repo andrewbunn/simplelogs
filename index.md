@@ -1238,3 +1238,5 @@ Found: lo rune : white ( to continue )
 merc dead. character died?
 Found: ohm rune : white ( oil see )
 Found: key of destruction : white ( key of destruction )
+Found: large charm : magic ( large charm )
+merc dead. character died?
