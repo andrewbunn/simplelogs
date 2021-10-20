@@ -1022,3 +1022,4 @@ merc dead. character died?
 Found: flawless emerald : white ( flawless emerald )
 Found: ist rune : white ( ost experl )
 Found: ist rune : white ( its toll of )
+merc dead. character died?
