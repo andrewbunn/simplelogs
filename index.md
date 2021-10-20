@@ -1088,3 +1088,4 @@ Found: flawless emerald : white ( flawless emerald )
 Found: grand charm : magic ( ajgrand charm )
 Found: flawless emerald : white ( flawless emerald )
 merc dead. character died?
+Found: key of destruction : gray ( key of destruction )
