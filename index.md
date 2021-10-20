@@ -1015,3 +1015,6 @@ revive merc failed, try in new game
 merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
+Found: thresher : unique ( rerey eh )
+Found: ber rune : rare ( reco i ce )
+Found: large charm : magic ( large charm )
