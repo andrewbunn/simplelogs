@@ -1025,3 +1025,6 @@ Found: ist rune : white ( its toll of )
 merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
+Found: large charm : magic ( e charm )
+Found: lem rune : white ( le q gols )
+Found: flawless topaz : white ( flawless topaz )
