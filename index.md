@@ -935,3 +935,5 @@ Found: lo rune : white ( lerupnen )
 d2 lobby never loaded
 Found: ring : rare ( ring )
 Found: shako : unique ( saati )
+Found: zod rune : unique ( a oe ure )
+Found: flawless amethyst : white ( flawless amethyst )
