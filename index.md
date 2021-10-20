@@ -1227,3 +1227,4 @@ Found: monarch : gray ( monarch be )
 Found: lo rune : white ( commun )
 Found: lo rune : unique ( loading )
 Found: jewel : white ( gees )
+merc dead. character died?
