@@ -1057,3 +1057,5 @@ Found: lo rune : white ( to continue )
 Found: lo rune : white ( to continue )
 Found: jewel : gray ( hefinel )
 merc dead. character died?
+Found: gul rune : white ( ul rune )
+Found: key of destruction : magic ( key of f destructionl )
