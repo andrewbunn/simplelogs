@@ -1060,3 +1060,4 @@ merc dead. character died?
 Found: gul rune : white ( ul rune )
 Found: key of destruction : magic ( key of f destructionl )
 merc dead. character died?
+merc dead. character died?
