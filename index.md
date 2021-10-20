@@ -1109,3 +1109,6 @@ Found: lo rune : white ( oo continue )
 merc dead. character died?
 Found: flawless emerald : white ( flawless i emerald )
 Found: flawless topaz : white ( flawless topaz )
+Found: flawless skull : white ( flawless skull )
+Found: flawless amethyst : white ( ipiawiess amethyst )
+Found: small charm : magic ( small charm )
