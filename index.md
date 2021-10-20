@@ -1050,3 +1050,4 @@ Found: jewel : gray ( vvel )
 merc dead. character died?
 Found: sur rune : white ( syren te )
 Found: flawless emerald : white ( s lawless emerald )
+Found: ber rune : white ( reju ms na )
