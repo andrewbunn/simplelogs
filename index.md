@@ -1216,3 +1216,5 @@ Found: jewel : magic ( pyjewel )
 Found: key of destruction : gray ( ey a destruction )
 Found: key of destruction : white ( key of destruction )
 merc dead. character died?
+Found: small charm : magic ( small charmi )
+Found: scourge : unique ( iscourge )
