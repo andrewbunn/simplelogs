@@ -1108,3 +1108,4 @@ Found: jewel : white ( vedied )
 Found: lo rune : white ( oo continue )
 merc dead. character died?
 Found: flawless emerald : white ( flawless i emerald )
+Found: flawless topaz : white ( flawless topaz )
