@@ -1087,3 +1087,4 @@ Found: mal rune : white ( al runeg )
 Found: flawless emerald : white ( flawless emerald )
 Found: grand charm : magic ( ajgrand charm )
 Found: flawless emerald : white ( flawless emerald )
+merc dead. character died?
