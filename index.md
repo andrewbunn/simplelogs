@@ -1076,3 +1076,5 @@ Found: perfect topaz : white ( press esc to continue )
 merc dead. character died?
 Found: flawless emerald : white ( flawless emerald )
 Found: small charm : magic ( small charm )
+Found: ko rune : magic ( ko nu )
+Found: flawless topaz : white ( flawless topaz )
