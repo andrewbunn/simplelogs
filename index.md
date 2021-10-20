@@ -1255,3 +1255,4 @@ Found: flawless topaz : white ( flawless roe a )
 Found: jewel : magic ( need )
 Found: sur rune : white ( super hea )
 Found: flawless ruby : white ( flawless ruby )
+merc dead. character died?
