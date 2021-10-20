@@ -1241,3 +1241,4 @@ Found: key of destruction : white ( key of destruction )
 Found: large charm : magic ( large charm )
 merc dead. character died?
 revive merc failed, try in new game
+merc dead. character died?
