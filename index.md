@@ -966,3 +966,6 @@ Found: vex rune : white ( ve died )
 Found: lo rune : gray ( life ee )
 Found: vex rune : white ( ve died )
 merc dead. character died?
+Found: jewel : white ( noe gol )
+Found: lo rune : white ( ng botan ie )
+d2 lobby never loaded
