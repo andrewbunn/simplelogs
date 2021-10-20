@@ -975,3 +975,4 @@ Found: lo rune : white ( to continue )
 merc dead. character died?
 merc dead. character died?
 revive merc failed, try in new game
+Found: flawless sapphire : white ( flawless sapphire gsuperio )
