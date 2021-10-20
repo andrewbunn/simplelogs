@@ -1024,3 +1024,4 @@ Found: ist rune : white ( ost experl )
 Found: ist rune : white ( its toll of )
 merc dead. character died?
 revive merc failed, try in new game
+merc dead. character died?
