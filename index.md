@@ -1011,3 +1011,4 @@ merc dead. character died?
 Found: jewel : magic ( geek )
 Found: flawless amethyst : white ( flawless amethyst )
 merc dead. character died?
+revive merc failed, try in new game
