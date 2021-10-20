@@ -962,3 +962,7 @@ Found: lo rune : white ( ms ene a )
 Found: jewel : white ( veel )
 Found: key of destruction : white ( key of destruction )
 Found: flawless skull : white ( flawless skull )
+Found: vex rune : white ( ve died )
+Found: lo rune : gray ( life ee )
+Found: vex rune : white ( ve died )
+merc dead. character died?
