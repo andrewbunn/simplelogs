@@ -1032,3 +1032,5 @@ merc dead. character died?
 Found: jewel : magic ( jewel )
 Found: grand charm : magic ( erand charme )
 merc dead. character died?
+Found: lum rune : white ( lum rune )
+Found: flawless diamond : white ( flawless diam )
