@@ -919,3 +919,7 @@ Found: ring : rare ( bins )
 game never loaded
 game never loaded
 game never loaded
+Found: small charm : magic ( gold small charm )
+Found: sur rune : white ( he super oe ie )
+Found: small charm : magic ( s gold small charm )
+Found: sur rune : white ( super fiealing )
