@@ -1242,3 +1242,7 @@ Found: large charm : magic ( large charm )
 merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
+Found: gul rune : white ( gol an e )
+Found: zod rune : white ( g id ring )
+Found: key of destruction : white ( ey of destruction )
+Found: ring : rare ( rin )
