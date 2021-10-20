@@ -1019,3 +1019,6 @@ Found: thresher : unique ( rerey eh )
 Found: ber rune : rare ( reco i ce )
 Found: large charm : magic ( large charm )
 merc dead. character died?
+Found: flawless emerald : white ( flawless emerald )
+Found: ist rune : white ( ost experl )
+Found: ist rune : white ( its toll of )
