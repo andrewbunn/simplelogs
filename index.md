@@ -1179,3 +1179,7 @@ Found: jewel : white ( epenee )
 Found: sur rune : white ( superior aue )
 Found: ring : unique ( nin se )
 Found: flawless skull : white ( pe awiess skull )
+Found: vex rune : gray ( ve died )
+Found: lo rune : white ( lost e )
+Found: ist rune : white ( its toll of )
+merc dead. character died?
