@@ -1074,3 +1074,5 @@ Found: cryptic axe : gray ( ficchati axes )
 Found: flawless sapphire : white ( flawless sapphire )
 Found: perfect topaz : white ( press esc to continue )
 merc dead. character died?
+Found: flawless emerald : white ( flawless emerald )
+Found: small charm : magic ( small charm )
