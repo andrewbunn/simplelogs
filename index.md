@@ -1008,3 +1008,6 @@ Found: jewel : magic ( jewel )
 Found: ring : unique ( aig )
 Found: jewel : rare ( jewel )
 merc dead. character died?
+Found: jewel : magic ( geek )
+Found: flawless amethyst : white ( flawless amethyst )
+merc dead. character died?
