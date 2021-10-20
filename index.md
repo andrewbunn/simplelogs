@@ -1260,3 +1260,12 @@ revive merc failed, try in new game
 merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
+Found: ring : unique ( ro i )
+Found: jewel : white ( o gold jewel )
+Found: jewel : rare ( jewel )
+Found: key of destruction : set ( ap key of destr )
+Found: key of destruction : gray ( ke of destruction )
+Found: flawless sapphire : white ( flawless sapphire )
+Found: flawless topaz : white ( flawless topaz )
+Found: flawless sapphire : white ( e flawless sa phire )
+Found: flawless sapphire : white ( flawless sapphit )
