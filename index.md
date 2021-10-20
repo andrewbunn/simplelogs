@@ -1218,3 +1218,6 @@ Found: key of destruction : white ( key of destruction )
 merc dead. character died?
 Found: small charm : magic ( small charmi )
 Found: scourge : unique ( iscourge )
+Found: amulet : set ( amulet )
+Found: key of destruction : white ( of destruction )
+Found: amulet : set ( amulet )
