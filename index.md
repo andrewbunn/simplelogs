@@ -1048,3 +1048,4 @@ merc dead. character died?
 Found: lo rune : white ( melo runer )
 Found: jewel : gray ( vvel )
 merc dead. character died?
+Found: sur rune : white ( syren te )
