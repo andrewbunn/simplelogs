@@ -969,3 +969,7 @@ merc dead. character died?
 Found: jewel : white ( noe gol )
 Found: lo rune : white ( ng botan ie )
 d2 lobby never loaded
+Found: ist rune : white ( is continue )
+Found: cham rune : white ( c to continue )
+Found: lo rune : white ( to continue )
+merc dead. character died?
