@@ -1206,3 +1206,5 @@ Found: large charm : magic ( large charm )
 Found: ral rune : white ( ral runel pilum )
 Found: ring : unique ( eng )
 merc dead. character died?
+Found: jewel : gray ( ie al )
+Found: amulet : set ( f amulet )
