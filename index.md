@@ -1215,3 +1215,4 @@ Found: key of destruction : gray ( polgnaas bolts ah re se key of destruction )
 Found: jewel : magic ( pyjewel )
 Found: key of destruction : gray ( ey a destruction )
 Found: key of destruction : white ( key of destruction )
+merc dead. character died?
