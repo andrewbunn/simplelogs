@@ -1103,3 +1103,7 @@ Found: cham rune : magic ( wis charm  bre )
 Found: large charm : magic ( jlarge charm )
 Found: aegis : unique ( ags )
 Found: sur rune : white ( super he )
+Found: amulet : rare ( amulet )
+Found: jewel : white ( vedied )
+Found: lo rune : white ( oo continue )
+merc dead. character died?
