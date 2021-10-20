@@ -908,3 +908,5 @@ Found: pul rune : white ( pindlerunnerd )
 Found: lo rune : white ( lerupnen )
 d2 lobby never loaded
 Found: flawless ruby : white ( flawless ruby )
+Found: jewel : magic ( feel )
+Found: war pike : unique ( oy pick )
