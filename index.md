@@ -1068,3 +1068,4 @@ Found: jewel : magic ( jewe )
 Found: key of destruction : white ( key of destruction )
 Found: flawless topaz : white ( flawless dia )
 merc dead. character died?
+merc dead. character died?
