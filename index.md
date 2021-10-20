@@ -1230,3 +1230,9 @@ Found: jewel : white ( gees )
 merc dead. character died?
 merc dead. character died?
 merc dead. character died?
+Found: vex rune : gray ( ve died )
+Found: lo rune : white ( to continue )
+Found: lo rune : white ( g to continue )
+Found: vex rune : white ( ve died )
+Found: lo rune : white ( to continue )
+merc dead. character died?
