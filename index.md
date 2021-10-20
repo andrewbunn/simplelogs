@@ -1183,3 +1183,6 @@ Found: vex rune : gray ( ve died )
 Found: lo rune : white ( lost e )
 Found: ist rune : white ( its toll of )
 merc dead. character died?
+Found: jewel : gray ( ween )
+Found: ring : rare ( rin )
+Found: small charm : magic ( small charm )
