@@ -979,3 +979,7 @@ Found: flawless sapphire : white ( flawless sapphire gsuperio )
 Found: zod rune : white ( you have )
 Found: perfect topaz : white ( press esc to con jue )
 merc dead. character died?
+Found: key of destruction : white ( key of destruction )
+Found: grand charm : magic ( grand charm )
+Found: sur rune : white ( super et )
+Found: flawless emerald : white ( flawless emerald )
