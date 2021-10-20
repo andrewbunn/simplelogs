@@ -1236,3 +1236,5 @@ Found: lo rune : white ( g to continue )
 Found: vex rune : white ( ve died )
 Found: lo rune : white ( to continue )
 merc dead. character died?
+Found: ohm rune : white ( oil see )
+Found: key of destruction : white ( key of destruction )
