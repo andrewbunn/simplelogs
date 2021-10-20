@@ -946,3 +946,6 @@ Found: jewel : rare ( jewel )
 Found: jewel : unique ( semen )
 Found: ber rune : white ( bee ruby f )
 Found: lo rune : white ( lo rune )
+Found: jewel : white ( ae ee )
+Found: flawless amethyst : white ( flawless amethyst )
+merc dead. character died?
