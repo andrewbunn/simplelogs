@@ -1198,3 +1198,7 @@ Found: grand charm : magic ( grand charm )
 Found: flawless skull : white ( i flawless sku )
 Found: flawless emerald : white ( lawless emerald )
 Found: key of destruction : gray ( key of destruction )
+Found: large charm : magic ( large charm )
+Found: grand charm : magic ( grand charm )
+Found: jewel : white ( eere )
+game never loaded
