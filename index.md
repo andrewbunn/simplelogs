@@ -1078,3 +1078,6 @@ Found: flawless emerald : white ( flawless emerald )
 Found: small charm : magic ( small charm )
 Found: ko rune : magic ( ko nu )
 Found: flawless topaz : white ( flawless topaz )
+Found: ring : rare ( ring )
+Found: ko rune : white ( kg aoratiin e )
+merc dead. character died?
