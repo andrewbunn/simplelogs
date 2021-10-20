@@ -949,3 +949,7 @@ Found: lo rune : white ( lo rune )
 Found: jewel : white ( ae ee )
 Found: flawless amethyst : white ( flawless amethyst )
 merc dead. character died?
+Found: jewel : magic ( jewel g )
+Found: mal rune : gray ( mat rune )
+Found: jewel : gray ( james )
+Found: jewel : set ( wel )
