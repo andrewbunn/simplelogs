@@ -1029,3 +1029,5 @@ Found: large charm : magic ( e charm )
 Found: lem rune : white ( le q gols )
 Found: flawless topaz : white ( flawless topaz )
 merc dead. character died?
+Found: jewel : magic ( jewel )
+Found: grand charm : magic ( erand charme )
