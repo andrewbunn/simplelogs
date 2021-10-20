@@ -933,3 +933,5 @@ Found: lo rune : white ( lerupnen )
 Found: pul rune : white ( pindlerunnerd )
 Found: lo rune : white ( lerupnen )
 d2 lobby never loaded
+Found: ring : rare ( ring )
+Found: shako : unique ( saati )
