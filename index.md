@@ -976,3 +976,6 @@ merc dead. character died?
 merc dead. character died?
 revive merc failed, try in new game
 Found: flawless sapphire : white ( flawless sapphire gsuperio )
+Found: zod rune : white ( you have )
+Found: perfect topaz : white ( press esc to con jue )
+merc dead. character died?
