@@ -1018,3 +1018,4 @@ merc dead. character died?
 Found: thresher : unique ( rerey eh )
 Found: ber rune : rare ( reco i ce )
 Found: large charm : magic ( large charm )
+merc dead. character died?
