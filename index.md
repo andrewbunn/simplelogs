@@ -1031,3 +1031,4 @@ Found: flawless topaz : white ( flawless topaz )
 merc dead. character died?
 Found: jewel : magic ( jewel )
 Found: grand charm : magic ( erand charme )
+merc dead. character died?
