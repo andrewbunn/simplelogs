@@ -1454,3 +1454,4 @@ Found: lo rune : white ( to continue )
 Found: jewel : white ( vedied )
 Found: lo rune : white ( to continue )
 merc dead. character died?
+Found: zod rune : white ( gold mikey es )
