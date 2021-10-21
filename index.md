@@ -1311,3 +1311,8 @@ d2 lobby never loaded
 Found: zod rune : white ( z gold tal rune )
 Found: fal rune : magic ( fal fein )
 Found: flawless amethyst : white ( flawless amethyst )
+Found: perfect topaz : white ( press esc to continue )
+Found: vex rune : white ( a experience )
+Found: vex rune : gray ( vee ee )
+Found: perfect topaz : white ( pressiesc to continue )
+merc dead. character died?
