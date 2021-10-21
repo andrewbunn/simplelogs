@@ -1469,3 +1469,6 @@ Found: aegis : unique ( aes )
 Found: flawless amethyst : white ( flawless amethyst )
 Found: key of destruction : gray ( key of destruction )
 Found: flawless emerald : white ( wrovies emerald )
+Found: flawless ruby : white ( flawless rubylr )
+Found: ring : unique ( reed )
+merc dead. character died?
