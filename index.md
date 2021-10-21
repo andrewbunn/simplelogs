@@ -1522,3 +1522,8 @@ Found: aegis : unique ( ag x )
 Found: colossus voulge : gray ( calpss teas sail ef )
 Found: colossus voulge : gray ( colossus voulgel wat pike ae )
 Found: jewel : white ( pe heali )
+Found: jewel : unique ( sehen )
+Found: ring : unique ( ina )
+Found: jewel : white ( vedied )
+Found: vex rune : white ( ve died )
+merc dead. character died?
