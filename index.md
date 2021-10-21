@@ -1498,3 +1498,4 @@ Found: small charm : magic ( small charm )
 Found: flawless emerald : white ( bisiess emerald )
 Found: hel rune : magic ( he re )
 merc dead. character died?
+revive merc failed, try in new game
