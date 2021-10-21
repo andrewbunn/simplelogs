@@ -1542,3 +1542,6 @@ Found: grand charm : magic ( grand leas )
 Found: sur rune : white ( sgto continue )
 Found: hel rune : white ( hell temptress )
 merc dead. character died?
+Found: key of destruction : white ( key of destruction )
+Found: io rune : white ( i l ie )
+Found: lo rune : white ( so ru ne )
