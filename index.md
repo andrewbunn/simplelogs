@@ -1434,3 +1434,7 @@ Found: demonhead : unique ( demonhead )
 merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
+Found: ber rune : white ( peg ence )
+Found: ber rune : white ( thera sine )
+Found: jewel : white ( oe ee )
+merc dead. character died?
