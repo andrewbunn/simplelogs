@@ -1455,3 +1455,8 @@ Found: jewel : white ( vedied )
 Found: lo rune : white ( to continue )
 merc dead. character died?
 Found: zod rune : white ( gold mikey es )
+Found: flawless amethyst : white ( pglawless amethyst )
+Found: ring : rare ( ing )
+Found: flawless amethyst : white ( flawless amethyst )
+Found: ring : rare ( rmor )
+Found: aegis : unique ( be as )
