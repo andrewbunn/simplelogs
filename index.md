@@ -1729,3 +1729,4 @@ merc dead. character died?
 Found: key of destruction : white ( key of destruction )
 Found: pul rune : gray ( apelierice )
 merc dead. character died?
+merc dead. character died?
