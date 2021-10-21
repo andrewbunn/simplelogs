@@ -1594,3 +1594,8 @@ Found: key of destruction : gray ( key of destruction )
 Found: jewel : magic ( jewel )
 Found: sur rune : white ( super heal )
 Found: key of destruction : gray ( esta key of destruction )
+Found: lo rune : white ( continue )
+Found: io rune : white ( if continue )
+Found: lo rune : white ( continue )
+Found: zod rune : white ( you have )
+merc dead. character died?
