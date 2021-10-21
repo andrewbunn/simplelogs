@@ -1718,3 +1718,7 @@ Found: ral rune : white ( ral rune )
 Found: ring : rare ( hing )
 Found: ral rune : white ( ral rune )
 merc dead. character died?
+Found: cham rune : white ( cc to continue )
+Found: lo rune : white ( to continue )
+Found: lo rune : white ( to contin )
+merc dead. character died?
