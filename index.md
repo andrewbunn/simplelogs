@@ -1320,3 +1320,5 @@ Found: flawless sapphire : white ( flawless sapphir )
 Found: zod rune : white ( vo  rejuve )
 Found: sur rune : white ( super healinc )
 merc dead. character died?
+Found: flawless topaz : white ( flawle s topaz )
+merc dead. character died?
