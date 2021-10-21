@@ -1502,3 +1502,9 @@ revive merc failed, try in new game
 merc dead. character died?
 merc dead. character died?
 Found: jewel : magic ( jewe )
+Found: small charm : magic ( qsinaii charm )
+Found: jewel : white ( weer )
+Found: ring : unique ( ring )
+Found: jewel : magic ( jewel )
+Found: jewel : magic ( jewel )
+Found: jewel : magic ( jewel )
