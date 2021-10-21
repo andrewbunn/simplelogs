@@ -1337,3 +1337,5 @@ Found: mithril coil : unique ( ill kill youl )
 game never loaded
 Found: zod rune : white ( gold reer hx )
 Found: zod rune : gray ( gold asuperon )
+Found: zod rune : gray ( rou nave )
+merc dead. character died?
