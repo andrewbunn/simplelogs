@@ -1634,3 +1634,4 @@ merc dead. character died?
 Found: ber rune : magic ( ber me )
 Found: flawless amethyst : white ( flawless amethyst )
 Found: flawless diamond : white ( cflawless diamond )
+Found: jewel : white ( j gold jewel )
