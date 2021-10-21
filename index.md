@@ -1713,3 +1713,8 @@ Found: colossus voulge : gray ( colossus voulge )
 Found: flawless amethyst : white ( flawless amethyst )
 Found: jewel : magic ( jew )
 Found: aegis : unique ( abet s )
+Found: jewel : white ( ieee )
+Found: ral rune : white ( ral rune )
+Found: ring : rare ( hing )
+Found: ral rune : white ( ral rune )
+merc dead. character died?
