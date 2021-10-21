@@ -1545,3 +1545,7 @@ merc dead. character died?
 Found: key of destruction : white ( key of destruction )
 Found: io rune : white ( i l ie )
 Found: lo rune : white ( so ru ne )
+Found: grand charm : magic ( grand charm )
+Found: ring : rare ( ring )
+Found: jewel : gray ( ie e )
+Found: large charm : magic ( large char )
