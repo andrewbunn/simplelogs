@@ -2255,3 +2255,8 @@ merc dead. character died?
 revive merc failed, try in new game
 d2 lobby never loaded
 Found: gold : white ( gold )
+Found: gold : white ( gold )
+Found: gold : white ( gold )
+Found: gold : white ( gold )
+Found: sur rune : white ( q superior rune bow )
+Found: gold : white ( gold )
