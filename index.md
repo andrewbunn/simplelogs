@@ -1602,3 +1602,10 @@ merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
 Found: flawless topaz : white ( flawless topaz )
+Found: aegis : unique ( ae es )
+Found: jewel : white ( vedied )
+Found: lo rune : gray ( to continue )
+Found: cham rune : white ( c to continue )
+Found: jewel : gray ( vedied )
+Found: lo rune : white ( to continue )
+merc dead. character died?
