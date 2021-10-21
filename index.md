@@ -1305,3 +1305,5 @@ Found: jewel : white ( vedied )
 Found: lo rune : gray ( to continue )
 Found: lo rune : white ( to continues )
 merc dead. character died?
+Found: small charm : magic ( small charm )
+Found: flawless skull : white ( flawless skull )
