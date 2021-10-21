@@ -1552,3 +1552,4 @@ Found: large charm : magic ( large char )
 Found: flawless diamond : white ( sflawiess diamond )
 Found: small charm : magic ( small charm )
 Found: sacred armor : gray ( sacred r )
+d2 lobby never loaded
