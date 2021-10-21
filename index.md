@@ -1307,3 +1307,4 @@ Found: lo rune : white ( to continues )
 merc dead. character died?
 Found: small charm : magic ( small charm )
 Found: flawless skull : white ( flawless skull )
+d2 lobby never loaded
