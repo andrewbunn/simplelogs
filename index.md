@@ -1599,3 +1599,4 @@ Found: io rune : white ( if continue )
 Found: lo rune : white ( continue )
 Found: zod rune : white ( you have )
 merc dead. character died?
+revive merc failed, try in new game
