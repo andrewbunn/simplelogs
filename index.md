@@ -1621,3 +1621,5 @@ Found: fal rune : white ( fiv ps ge )
 Found: perfect topaz : gray ( press esc to continue )
 Found: perfect topaz : gray ( press esc to continue )
 merc dead. character died?
+Found: key of destruction : white ( key of destruction )
+Found: key of destruction : white ( key of destruction )
