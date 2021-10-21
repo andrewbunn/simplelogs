@@ -1665,3 +1665,6 @@ Found: tomb wand : unique ( my homeland )
 Found: tomb wand : unique ( my homeland )
 Found: sur rune : white ( sora rondel )
 Found: jewel : white ( e ee )
+Found: key of destruction : white ( key of destruction )
+Found: key of destruction : white ( key of destruction )
+merc dead. character died?
