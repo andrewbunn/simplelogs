@@ -1291,3 +1291,7 @@ Found: large charm : magic ( large charm )
 Found: pul rune : white ( pun te )
 game never loaded
 game never loaded
+Found: grand charm : magic ( grand charm )
+Found: grand charm : magic ( grand charm )
+Found: great poleaxe : gray ( x superior great poleaxe )
+Found: jewel : white ( epes )
