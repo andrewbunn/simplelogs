@@ -1331,3 +1331,6 @@ Found: flawless ruby : white ( flawless ruby )
 Found: jewel : gray ( j se )
 Found: aegis : unique ( ais )
 merc dead. character died?
+Found: mithril coil : unique ( ill kill youl )
+Found: mithril coil : unique ( ill kill youl )
+Found: mithril coil : unique ( ill kill youl )
