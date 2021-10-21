@@ -1992,3 +1992,5 @@ merc dead. character died?
 revive merc failed, try in new game
 Found: ring : rare ( iring )
 Found: jewel : unique ( jewel )
+Found: flawless sapphire : white ( flawless sapphire )
+Found: colossus voulge : gray ( colossus voulge )
