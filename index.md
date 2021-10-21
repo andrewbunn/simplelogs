@@ -1441,3 +1441,8 @@ merc dead. character died?
 merc dead. character died?
 Found: flawless emerald : white ( flawless emerald )
 Found: ring : rare ( ring )
+Found: ring : rare ( ring )
+Found: zod rune : rare ( izu cord gold )
+Found: large charm : magic ( slarge charm )
+Found: ist rune : white ( a ttt fe )
+Found: jewel : gray ( se ee )
