@@ -1350,3 +1350,4 @@ Found: flawless diamond : white ( flawless diamond )
 Found: flawless topaz : white ( flawless topaz )
 Found: flawless diamond : white ( flawless diamond )
 Found: zod rune : gray ( of inue )
+merc dead. character died?
