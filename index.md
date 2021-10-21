@@ -1641,3 +1641,6 @@ Found: ring : rare ( ring )
 Found: flawless diamond : white ( flawless diamond )
 Found: hel rune : gray ( he sa y )
 Found: perfect emerald : white ( gees emerald )
+Found: sur rune : magic ( si ie ce )
+Found: lo rune : white ( to contin )
+merc dead. character died?
