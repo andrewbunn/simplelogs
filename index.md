@@ -1440,3 +1440,4 @@ Found: jewel : white ( oe ee )
 merc dead. character died?
 merc dead. character died?
 Found: flawless emerald : white ( flawless emerald )
+Found: ring : rare ( ring )
