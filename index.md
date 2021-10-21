@@ -1316,3 +1316,6 @@ Found: vex rune : white ( a experience )
 Found: vex rune : gray ( vee ee )
 Found: perfect topaz : white ( pressiesc to continue )
 merc dead. character died?
+Found: flawless sapphire : white ( flawless sapphir )
+Found: zod rune : white ( vo  rejuve )
+Found: sur rune : white ( super healinc )
