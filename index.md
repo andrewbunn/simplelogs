@@ -1425,3 +1425,7 @@ Found: jewel : magic ( jewels )
 Found: large charm : magic ( oe large charm )
 Found: flawless diamond : white ( flawless diamond )
 Found: jewel : magic ( eel )
+Found: grand charm : magic ( grand charm )
+Found: lo rune : white ( of o ontinue )
+Found: lo rune : white ( continue )
+merc dead. character died?
