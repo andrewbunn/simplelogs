@@ -1726,3 +1726,6 @@ merc dead. character died?
 Found: dol rune : white ( dol rune )
 Found: jewel : white ( eles )
 merc dead. character died?
+Found: key of destruction : white ( key of destruction )
+Found: pul rune : gray ( apelierice )
+merc dead. character died?
