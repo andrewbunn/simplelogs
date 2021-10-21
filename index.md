@@ -1472,3 +1472,5 @@ Found: flawless emerald : white ( wrovies emerald )
 Found: flawless ruby : white ( flawless rubylr )
 Found: ring : unique ( reed )
 merc dead. character died?
+Found: flawless topaz : white ( flawless topaz )
+Found: sur rune : white ( superior rondel )
