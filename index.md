@@ -2016,3 +2016,4 @@ Found: flawless sapphire : white ( flawless sapphire )
 Found: amulet : rare ( amulet )
 Found: flawless skull : white ( gold flawless skull )
 merc dead. character died?
+revive merc failed, try in new game
