@@ -1289,3 +1289,4 @@ Found: flawless topaz : white ( e flawless topaz )
 Found: flawless topaz : white ( flawless topaz )
 Found: large charm : magic ( large charm )
 Found: pul rune : white ( pun te )
+game never loaded
