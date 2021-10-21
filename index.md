@@ -1616,3 +1616,7 @@ Found: flawless amethyst : white ( flawless amethyst )
 Found: tomb wand : unique ( my homeland )
 Found: tomb wand : unique ( my homeland )
 merc dead. character died?
+Found: key of destruction : rare ( fd struction )
+Found: fal rune : white ( fiv ps ge )
+Found: perfect topaz : gray ( press esc to continue )
+Found: perfect topaz : gray ( press esc to continue )
