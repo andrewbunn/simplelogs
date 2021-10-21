@@ -1529,3 +1529,10 @@ Found: vex rune : white ( ve died )
 merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
+Found: jewel : rare ( fete )
+Found: jewel : set ( eral )
+Found: ring : rare ( ing )
+Found: lo rune : gray ( lost experience )
+Found: lo rune : gray ( gto continue )
+Found: lo rune : gray ( e lost experience )
+merc dead. character died?
