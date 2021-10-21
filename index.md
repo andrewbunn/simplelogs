@@ -1673,3 +1673,4 @@ Found: ring : rare ( ring )
 Found: small charm : magic ( small charm )
 Found: lo rune : white ( fontinue )
 merc dead. character died?
+Found: flawless topaz : white ( flawless topaz )
