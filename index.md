@@ -1330,3 +1330,4 @@ Found: key of destruction : white ( key of destruction a )
 Found: flawless ruby : white ( flawless ruby )
 Found: jewel : gray ( j se )
 Found: aegis : unique ( ais )
+merc dead. character died?
