@@ -1528,3 +1528,4 @@ Found: jewel : white ( vedied )
 Found: vex rune : white ( ve died )
 merc dead. character died?
 revive merc failed, try in new game
+merc dead. character died?
