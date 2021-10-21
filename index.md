@@ -1322,3 +1322,7 @@ Found: sur rune : white ( super healinc )
 merc dead. character died?
 Found: flawless topaz : white ( flawle s topaz )
 merc dead. character died?
+Found: sur rune : white ( superior coronel )
+Found: ring : rare ( ringe )
+Found: ring : rare ( ring )
+Found: jewel : magic ( jewel )
