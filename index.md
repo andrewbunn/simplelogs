@@ -1474,3 +1474,4 @@ Found: ring : unique ( reed )
 merc dead. character died?
 Found: flawless topaz : white ( flawless topaz )
 Found: sur rune : white ( superior rondel )
+Found: small charm : magic ( small charm )
