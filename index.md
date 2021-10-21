@@ -1623,3 +1623,6 @@ Found: perfect topaz : gray ( press esc to continue )
 merc dead. character died?
 Found: key of destruction : white ( key of destruction )
 Found: key of destruction : white ( key of destruction )
+Found: grand charm : magic ( grand charm )
+Found: sur rune : white ( sus mana )
+Found: sur rune : white ( super hea )
