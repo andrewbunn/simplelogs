@@ -1610,3 +1610,5 @@ Found: jewel : gray ( vedied )
 Found: lo rune : white ( to continue )
 merc dead. character died?
 Found: jewel : white ( one es )
+Found: jewel : magic ( jew )
+merc dead. character died?
