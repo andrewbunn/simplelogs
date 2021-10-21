@@ -1413,3 +1413,5 @@ Found: zod rune : magic ( pom orb bi )
 Found: key of destruction : gray ( key of destruction )
 Found: lo rune : white ( o super )
 merc dead. character died?
+Found: grand charm : magic ( grand charm )
+Found: ring : rare ( ring )
