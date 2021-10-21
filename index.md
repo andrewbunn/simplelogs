@@ -1536,3 +1536,9 @@ Found: lo rune : gray ( lost experience )
 Found: lo rune : gray ( gto continue )
 Found: lo rune : gray ( e lost experience )
 merc dead. character died?
+Found: small charm : magic ( small charm )
+Found: jah rune : unique ( jh mana )
+Found: grand charm : magic ( grand leas )
+Found: sur rune : white ( sgto continue )
+Found: hel rune : white ( hell temptress )
+merc dead. character died?
