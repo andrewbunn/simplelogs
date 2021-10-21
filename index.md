@@ -1631,3 +1631,6 @@ Found: lo rune : white ( to continue )
 Found: lo rune : white ( to continue )
 Found: lo rune : white ( ocontinue )
 merc dead. character died?
+Found: ber rune : magic ( ber me )
+Found: flawless amethyst : white ( flawless amethyst )
+Found: flawless diamond : white ( cflawless diamond )
