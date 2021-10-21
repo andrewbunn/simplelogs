@@ -1438,3 +1438,4 @@ Found: ber rune : white ( peg ence )
 Found: ber rune : white ( thera sine )
 Found: jewel : white ( oe ee )
 merc dead. character died?
+merc dead. character died?
