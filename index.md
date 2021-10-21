@@ -1674,3 +1674,4 @@ Found: small charm : magic ( small charm )
 Found: lo rune : white ( fontinue )
 merc dead. character died?
 Found: flawless topaz : white ( flawless topaz )
+Found: ber rune : white ( per healing )
