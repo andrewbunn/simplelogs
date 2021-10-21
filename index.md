@@ -1355,3 +1355,7 @@ Found: flawless ruby : white ( v flawless ruby )
 Found: lo rune : white ( continue )
 Found: ist rune : gray ( esc to continue )
 merc dead. character died?
+Found: amulet : set ( amulet a )
+Found: ohm rune : magic ( oh ope )
+Found: large charm : magic ( splarge c charms )
+Found: jewel : white ( ped bed )
