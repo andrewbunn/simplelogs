@@ -1270,3 +1270,8 @@ Found: flawless topaz : white ( flawless topaz )
 Found: flawless sapphire : white ( e flawless sa phire )
 Found: flawless sapphire : white ( flawless sapphit )
 Found: ist rune : gray ( i s ren )
+Found: perfect topaz : white ( ped takes its tol of a gold )
+Found: perfect skull : white ( aptegs esgto continule )
+Found: perfect sapphire : white ( spiegs esgto confiniie )
+Found: perfect topaz : white ( peah takes its tothofz gold )
+merc dead. character died?
