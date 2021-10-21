@@ -1308,3 +1308,6 @@ merc dead. character died?
 Found: small charm : magic ( small charm )
 Found: flawless skull : white ( flawless skull )
 d2 lobby never loaded
+Found: zod rune : white ( z gold tal rune )
+Found: fal rune : magic ( fal fein )
+Found: flawless amethyst : white ( flawless amethyst )
