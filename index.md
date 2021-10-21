@@ -1403,3 +1403,8 @@ Found: flawless sapphire : white ( flawless sapphire )
 Found: sur rune : white ( super healinc )
 Found: ber rune : white ( bs winge )
 Found: amulet : rare ( e amulet )
+Found: dusk shroud : gray ( dusk shrou )
+Found: zod rune : white ( you havea )
+Found: perfect sapphire : white ( press esc to contifinie )
+Found: zod rune : white ( you have )
+merc dead. character died?
