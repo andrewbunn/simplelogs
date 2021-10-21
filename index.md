@@ -1408,3 +1408,8 @@ Found: zod rune : white ( you havea )
 Found: perfect sapphire : white ( press esc to contifinie )
 Found: zod rune : white ( you have )
 merc dead. character died?
+Found: key of destruction : gray ( key eu destruction )
+Found: zod rune : magic ( pom orb bi )
+Found: key of destruction : gray ( key of destruction )
+Found: lo rune : white ( o super )
+merc dead. character died?
