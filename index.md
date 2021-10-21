@@ -1334,3 +1334,4 @@ merc dead. character died?
 Found: mithril coil : unique ( ill kill youl )
 Found: mithril coil : unique ( ill kill youl )
 Found: mithril coil : unique ( ill kill youl )
+game never loaded
