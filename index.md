@@ -1723,3 +1723,5 @@ Found: lo rune : white ( to continue )
 Found: lo rune : white ( to contin )
 merc dead. character died?
 merc dead. character died?
+Found: dol rune : white ( dol rune )
+Found: jewel : white ( eles )
