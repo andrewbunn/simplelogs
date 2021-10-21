@@ -1560,3 +1560,6 @@ merc dead. character died?
 Found: jewel : magic ( jewel )
 merc dead. character died?
 merc dead. character died?
+Found: amulet : set ( be amulet )
+Found: flawless topaz : white ( flawless topaz )
+Found: ring : unique ( wins )
