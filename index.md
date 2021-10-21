@@ -1731,3 +1731,4 @@ Found: pul rune : gray ( apelierice )
 merc dead. character died?
 merc dead. character died?
 merc dead. character died?
+merc dead. character died?
