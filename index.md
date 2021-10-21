@@ -1990,3 +1990,5 @@ merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
 revive merc failed, try in new game
+Found: ring : rare ( iring )
+Found: jewel : unique ( jewel )
