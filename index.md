@@ -1612,3 +1612,6 @@ merc dead. character died?
 Found: jewel : white ( one es )
 Found: jewel : magic ( jew )
 merc dead. character died?
+Found: flawless amethyst : white ( flawless amethyst )
+Found: tomb wand : unique ( my homeland )
+Found: tomb wand : unique ( my homeland )
