@@ -1275,3 +1275,5 @@ Found: perfect skull : white ( aptegs esgto continule )
 Found: perfect sapphire : white ( spiegs esgto confiniie )
 Found: perfect topaz : white ( peah takes its tothofz gold )
 merc dead. character died?
+Found: grand charm : magic ( grand charm )
+Found: flawless diamond : white ( flawless diamond )
