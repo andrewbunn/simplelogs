@@ -1668,3 +1668,8 @@ Found: jewel : white ( e ee )
 Found: key of destruction : white ( key of destruction )
 Found: key of destruction : white ( key of destruction )
 merc dead. character died?
+Found: small charm : magic ( small charm )
+Found: ring : rare ( ring )
+Found: small charm : magic ( small charm )
+Found: lo rune : white ( fontinue )
+merc dead. character died?
