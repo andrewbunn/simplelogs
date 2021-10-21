@@ -1627,3 +1627,7 @@ Found: grand charm : magic ( grand charm )
 Found: sur rune : white ( sus mana )
 Found: sur rune : white ( super hea )
 Found: flawless diamond : white ( flawless diamond )
+Found: lo rune : white ( to continue )
+Found: lo rune : white ( to continue )
+Found: lo rune : white ( ocontinue )
+merc dead. character died?
