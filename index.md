@@ -1495,3 +1495,6 @@ Found: ring : rare ( ring )
 Found: flawless amethyst : white ( flawless amethyst )
 Found: large charm : magic ( large c charm )
 Found: small charm : magic ( small charm )
+Found: flawless emerald : white ( bisiess emerald )
+Found: hel rune : magic ( he re )
+merc dead. character died?
