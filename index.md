@@ -1744,3 +1744,4 @@ revive merc failed, try in new game
 merc dead. character died?
 Found: jah rune : white ( gh mana )
 merc dead. character died?
+revive merc failed, try in new game
