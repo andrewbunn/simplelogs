@@ -1722,3 +1722,4 @@ Found: cham rune : white ( cc to continue )
 Found: lo rune : white ( to continue )
 Found: lo rune : white ( to contin )
 merc dead. character died?
+merc dead. character died?
