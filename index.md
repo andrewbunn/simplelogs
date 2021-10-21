@@ -1430,3 +1430,5 @@ Found: lo rune : white ( of o ontinue )
 Found: lo rune : white ( continue )
 merc dead. character died?
 merc dead. character died?
+Found: demonhead : unique ( demonhead )
+merc dead. character died?
