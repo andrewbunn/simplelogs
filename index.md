@@ -1563,3 +1563,8 @@ merc dead. character died?
 Found: amulet : set ( be amulet )
 Found: flawless topaz : white ( flawless topaz )
 Found: ring : unique ( wins )
+Found: grand charm : magic ( grand charm s )
+Found: flawless sapphire : white ( flawless sapphire )
+Found: jewel : gray ( ee ol )
+Found: small charm : magic ( mall charm ae )
+Found: key of destruction : white ( a pjkcey of destruction )
