@@ -2211,3 +2211,4 @@ d2 lobby never loaded
 merc dead. character died?
 revive merc failed, try in new game
 merc dead. character died?
+revive merc failed, try in new game
