@@ -2364,3 +2364,4 @@ Found: gold : white ( gold )
 Found: vex rune : white ( ve died )
 Found: gold : white ( oll )
 Found: gold : white ( old )
+merc dead. character died?
