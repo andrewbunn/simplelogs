@@ -2384,3 +2384,4 @@ Found: jewel : gray ( feces )
 Found: jewel : white ( deal )
 Found: lo rune : white ( continue )
 Found: perfect topaz : white ( press esc to continue )
+merc dead. character died?
