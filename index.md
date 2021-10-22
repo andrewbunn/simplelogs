@@ -2385,3 +2385,5 @@ Found: jewel : white ( deal )
 Found: lo rune : white ( continue )
 Found: perfect topaz : white ( press esc to continue )
 merc dead. character died?
+Found: io rune : white ( i of seri )
+Found: key of destruction : white ( key of destruction )
