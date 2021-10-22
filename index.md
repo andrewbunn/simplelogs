@@ -2387,3 +2387,7 @@ Found: perfect topaz : white ( press esc to continue )
 merc dead. character died?
 Found: io rune : white ( i of seri )
 Found: key of destruction : white ( key of destruction )
+Found: grand charm : magic ( grand charm )
+Found: jah rune : unique ( ugh mana )
+Found: zod rune : white ( gold greate )
+Found: grand charm : magic ( grand charm )
