@@ -134,3 +134,4 @@ Found: key of destruction : gray ( ree key of destruction )
 Found: zod rune : magic ( on side )
 Found: shako : unique ( oh eos )
 Found: aegis : unique ( sse ik )
+d2 lobby never loaded
