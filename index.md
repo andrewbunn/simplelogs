@@ -293,3 +293,6 @@ Found: key of destruction : white ( kee of destruction )
 Found: ring : rare ( rig )
 Found: zod rune : white ( zt gold on i )
 failed reading memory
+Found: jewel : white ( per ei )
+Found: aegis : unique ( eats )
+Found: colossus voulge : gray ( superior voulge )
