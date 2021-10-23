@@ -177,3 +177,6 @@ failed reading memory
 Found: flawless sapphire : white ( flawless sapphire soq gold )
 Found: jah rune : unique ( ugh mana )
 Found: aegis : unique ( as if )
+Found: key of destruction : gray ( y of destuston )
+Found: key of destruction : white ( key of destruction )
+Found: flawless amethyst : white ( flawless amethyst )
