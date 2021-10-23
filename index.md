@@ -309,3 +309,4 @@ Found: Flawless Diamond : white
 Found: Grand Charm : magic
 Found: Flawless Amethyst : white
 Found: Ring : rare
+Found: Key of Destruction : rune
