@@ -2848,3 +2848,4 @@ Found: jewel : magic ( jewel )
 game never loaded
 game never loaded
 game never loaded
+Found: flawless skull : white ( flawless skull )
