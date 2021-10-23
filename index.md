@@ -174,3 +174,4 @@ Found: ring : unique ( ain )
 Found: large charm : magic ( large charm )
 Found: ring : unique ( aig )
 failed reading memory
+Found: flawless sapphire : white ( flawless sapphire soq gold )
