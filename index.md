@@ -106,3 +106,5 @@ Found: grand charm : unique ( grand charmt )
 Found: grand charm : unique ( s rand charny )
 Found: grand charm : unique ( grand charm )
 d2 lobby never loaded
+Found: tiara : rare ( tiara )
+Found: ber rune : rare ( bier scine )
