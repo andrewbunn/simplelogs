@@ -306,3 +306,4 @@ Found: Jewel : rare
 Found: Jewel : rare
 Found: Boneweave Boots : unique
 Found: Flawless Diamond : white
+Found: Grand Charm : magic
