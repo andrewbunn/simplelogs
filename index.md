@@ -311,3 +311,4 @@ Found: Flawless Amethyst : white
 Found: Ring : rare
 Found: Key of Destruction : rune
 Found: Key of Destruction : rune
+Found: Flawless Topaz : white
