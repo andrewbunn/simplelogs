@@ -175,3 +175,5 @@ Found: large charm : magic ( large charm )
 Found: ring : unique ( aig )
 failed reading memory
 Found: flawless sapphire : white ( flawless sapphire soq gold )
+Found: jah rune : unique ( ugh mana )
+Found: aegis : unique ( as if )
