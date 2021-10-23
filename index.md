@@ -302,3 +302,7 @@ Found: flawless topaz : white ( c fp blade flawless topaz )
 Found: aegis : unique ( aes )
 Found: jah rune : unique ( ugh mana )
 Found: jah rune : unique ( ugh mana )
+Found: Jewel : rare
+Found: Jewel : rare
+Found: Boneweave Boots : unique
+Found: Flawless Diamond : white
