@@ -239,3 +239,6 @@ Found: flawless diamond : white ( flawless diamond )
 Found: flawless ruby : white ( flawless ruby )
 failed reading memory
 Found: grand charm : magic ( grand charm )
+Found: flawless diamond : white ( flawless diamond )
+Found: flawless emerald : white ( flawless emerald gold )
+Found: flawless skull : white ( a flawless skull )
