@@ -247,3 +247,5 @@ Found: large charm : magic ( large charm )
 Found: lo rune : white ( lo rune )
 Found: perfect topaz : white ( press esc to continue )
 failed reading memory
+Found: large charm : magic ( large charm )
+Found: shako : unique ( ughmana )
