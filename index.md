@@ -238,3 +238,4 @@ Found: key of destruction : white ( key of destruction )
 Found: flawless diamond : white ( flawless diamond )
 Found: flawless ruby : white ( flawless ruby )
 failed reading memory
+Found: grand charm : magic ( grand charm )
