@@ -2849,3 +2849,7 @@ game never loaded
 game never loaded
 game never loaded
 Found: flawless skull : white ( flawless skull )
+Found: key of destruction : gray ( key ot destruction )
+Found: jewel : gray ( me ee )
+Found: jewel : gray ( thewe )
+Found: jewel : white ( iea el )
