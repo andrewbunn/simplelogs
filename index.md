@@ -173,3 +173,4 @@ Found: amulet : unique ( amulet )
 Found: ring : unique ( ain )
 Found: large charm : magic ( large charm )
 Found: ring : unique ( aig )
+failed reading memory
