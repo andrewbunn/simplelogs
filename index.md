@@ -292,3 +292,4 @@ Found: thresher : gray ( sl es eg )
 Found: key of destruction : white ( kee of destruction )
 Found: ring : rare ( rig )
 Found: zod rune : white ( zt gold on i )
+failed reading memory
