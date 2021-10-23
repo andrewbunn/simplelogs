@@ -296,3 +296,6 @@ failed reading memory
 Found: jewel : white ( per ei )
 Found: aegis : unique ( eats )
 Found: colossus voulge : gray ( superior voulge )
+Found: flawless topaz : white ( bade flawless topaz )
+Found: zod rune : white ( o gold gudeeon )
+Found: flawless topaz : white ( c fp blade flawless topaz )
