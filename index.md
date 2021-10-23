@@ -137,3 +137,6 @@ Found: aegis : unique ( sse ik )
 d2 lobby never loaded
 Found: cham rune : magic ( champigenc )
 Found: key of destruction : white ( key of destruction )
+Found: jewel : magic ( ewel )
+Found: grand charm : magic ( grand charm )
+Found: flawless skull : white ( flawless skull )
