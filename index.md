@@ -2843,3 +2843,6 @@ Found: jewel : white ( aetey )
 Found: tiara : unique ( ty re )
 Found: ring : rare ( ring )
 Found: jewel : gray ( fe fey )
+Found: jewel : magic ( jewel )
+Found: jewel : magic ( jewel )
+game never loaded
