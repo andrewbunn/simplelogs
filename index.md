@@ -411,3 +411,4 @@ Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: thresher : gray
+Found: jewel : magic
