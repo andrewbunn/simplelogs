@@ -461,3 +461,7 @@ Found: key of destruction : white
 Found: amulet : set
 Found: archon plate : white
 Found: archon plate : white
+Found: key of destruction : gray
+Found: jewel : magic
+Found: ring : rare
+Found: war belt : unique
