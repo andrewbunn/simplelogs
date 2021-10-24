@@ -318,3 +318,5 @@ Found: Russet Armor : unique
 failed reading memory
 Found: Key of Destruction : rune
 Found: Key of Destruction : rune
+Found: War Boots : unique
+Found: Key of Destruction : rune
