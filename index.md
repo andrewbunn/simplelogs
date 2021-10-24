@@ -423,3 +423,6 @@ Found: grand charm : magic
 Found: large charm : magic
 Found: flawless amethyst : white
 Found: ring : rare
+Found: grand charm : magic
+Found: ring : rare
+Found: jewel : magic
