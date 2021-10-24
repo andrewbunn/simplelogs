@@ -598,3 +598,9 @@ Found: key of destruction : gray
 Found: lum rune : white
 Found: kraken shell : unique
 Found: key of destruction : white
+Found: ring : rare
+Found: grand charm : magic
+Found: small charm : magic
+Found: key of destruction : gray
+Found: large charm : magic
+Found: key of destruction : gray
