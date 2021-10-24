@@ -504,3 +504,6 @@ Found: small charm : magic
 Found: lacquered plate : set
 Found: large charm : magic
 Found: amulet : rare
+Found: grand charm : magic
+Found: grand charm : magic
+Found: io rune : white
