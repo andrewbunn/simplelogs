@@ -412,3 +412,5 @@ Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: thresher : gray
 Found: jewel : magic
+Found: grand charm : magic
+Found: flawless amethyst : white
