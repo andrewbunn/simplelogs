@@ -494,3 +494,5 @@ Found: amulet : rare
 Found: ring : rare
 Found: large charm : magic
 Found: jewel : magic
+Found: amulet : set
+Found: grand charm : magic
