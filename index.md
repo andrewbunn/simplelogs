@@ -379,3 +379,5 @@ Found: amulet : unique
 Found: grand charm : magic
 Found: dol rune : white
 Found: key of destruction : unique
+Found: sacred targe : white
+Found: ring : rare
