@@ -507,3 +507,7 @@ Found: amulet : rare
 Found: grand charm : magic
 Found: grand charm : magic
 Found: io rune : white
+Found: key of destruction : rare
+Found: key of destruction : gray
+Found: key of destruction : set
+Found: key of destruction : white
