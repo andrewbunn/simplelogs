@@ -624,3 +624,6 @@ Found: grand charm : magic
 Found: key of destruction : white
 Found: amulet : unique
 Found: flawless amethyst : white
+Found: ring : rare
+Found: flawless amethyst : white
+Found: small charm : magic
