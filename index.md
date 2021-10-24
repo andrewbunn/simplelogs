@@ -434,3 +434,5 @@ Found: dol rune : white
 Found: key of destruction : white
 Found: amulet : set
 Found: amulet : unique
+Found: key of destruction : white
+Found: large charm : magic
