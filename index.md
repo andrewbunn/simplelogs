@@ -633,3 +633,4 @@ Found: key of destruction : gray
 Found: small charm : magic
 Found: ring : rare
 Found: flawless amethyst : white
+Found: io rune : white
