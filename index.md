@@ -518,3 +518,11 @@ Found: grand charm : magic
 Found: large charm : magic
 Found: flawless amethyst : white
 Found: ral rune : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: ring : rare
+Found: ring : rare
+Found: ring : rare
+Found: ring : rare
