@@ -517,3 +517,4 @@ Found: grand charm : magic
 Found: grand charm : magic
 Found: large charm : magic
 Found: flawless amethyst : white
+Found: ral rune : gray
