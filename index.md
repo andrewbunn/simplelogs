@@ -468,3 +468,4 @@ Found: war belt : unique
 Found: flawless amethyst : white
 Found: key of destruction : white
 Found: small charm : magic
+Found: small charm : magic
