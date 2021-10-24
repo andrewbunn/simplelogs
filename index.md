@@ -439,3 +439,5 @@ Found: large charm : magic
 Found: phase blade : gray
 Found: key of destruction : gray
 Found: monarch : gray
+Found: grand charm : magic
+Found: large charm : magic
