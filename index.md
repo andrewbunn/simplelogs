@@ -631,3 +631,4 @@ Found: grand charm : magic
 Found: small charm : magic
 Found: key of destruction : gray
 Found: small charm : magic
+Found: ring : rare
