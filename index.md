@@ -381,3 +381,5 @@ Found: dol rune : white
 Found: key of destruction : unique
 Found: sacred targe : white
 Found: ring : rare
+Found: key of destruction : gray
+Found: amulet : set
