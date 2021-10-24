@@ -587,3 +587,4 @@ Found: jewel : magic
 Found: jewel : magic
 Found: jewel : magic
 Found: jewel : magic
+Found: small charm : magic
