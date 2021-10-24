@@ -607,3 +607,4 @@ Found: key of destruction : gray
 Found: ring : rare
 Found: demonhide sash : unique
 Found: key of destruction : gray
+Found: grand charm : magic
