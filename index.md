@@ -377,3 +377,4 @@ Found: io rune : white
 Found: key of destruction : white
 Found: amulet : unique
 Found: grand charm : magic
+Found: dol rune : white
