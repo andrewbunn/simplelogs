@@ -371,3 +371,4 @@ Found: flawless diamond : white
 Found: flawless diamond : white
 Found: key of destruction : gray
 Found: um rune : white
+Found: key of destruction : gray
