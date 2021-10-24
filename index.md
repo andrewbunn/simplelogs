@@ -383,3 +383,4 @@ Found: sacred targe : white
 Found: ring : rare
 Found: key of destruction : gray
 Found: amulet : set
+Found: grand charm : magic
