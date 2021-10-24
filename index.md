@@ -582,3 +582,7 @@ Found: key of destruction : magic
 Found: io rune : white
 Found: key of destruction : magic
 Found: io rune : white
+Found: jewel : magic
+Found: jewel : magic
+Found: jewel : magic
+Found: jewel : magic
