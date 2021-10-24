@@ -368,3 +368,6 @@ Found: flawless ruby : white
 Found: amulet : unique
 Found: great poleaxe : gray
 Found: flawless diamond : white
+Found: flawless diamond : white
+Found: key of destruction : gray
+Found: um rune : white
