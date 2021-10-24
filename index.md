@@ -327,3 +327,6 @@ Found: Key of Destruction : rune
 Found:  : white
 Found:  : white
 Found:  : magic
+Found:  : magic
+Found:  : gray
+Found:  : gray
