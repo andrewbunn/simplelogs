@@ -332,3 +332,9 @@ Found:  : gray
 Found:  : gray
 game never loaded
 Found: key of destruction : gray
+Found: key of destruction : white
+Found: flawless sapphire : white
+Found: flawless diamond : white
+Found: amulet : set
+Found: key of destruction : white
+Found: amulet : rare
