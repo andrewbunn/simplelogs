@@ -359,3 +359,6 @@ Found: flawless diamond : white
 Found: fal rune : white
 Found: key of destruction : gray
 Found: key of destruction : white
+Found: flawless diamond : white
+Found: flawless ruby : white
+Found: flawless diamond : white
