@@ -389,3 +389,5 @@ Found: jewel : magic
 Found: grand charm : magic
 Found: grand charm : magic
 Found: large charm : magic
+Found: key of destruction : white
+Found: grand charm : magic
