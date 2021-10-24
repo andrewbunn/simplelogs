@@ -620,3 +620,4 @@ Found: flawless amethyst : white
 Found: colossus voulge : gray
 Found: small charm : magic
 Found: flawless amethyst : white
+Found: grand charm : magic
