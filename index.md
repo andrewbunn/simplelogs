@@ -398,3 +398,6 @@ Found: key of destruction : gray
 Found: large charm : magic
 Found: small charm : magic
 Found: small charm : magic
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: grand charm : magic
