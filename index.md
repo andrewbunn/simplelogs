@@ -331,3 +331,4 @@ Found:  : magic
 Found:  : gray
 Found:  : gray
 game never loaded
+Found: key of destruction : gray
