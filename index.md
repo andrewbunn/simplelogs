@@ -567,3 +567,8 @@ Found: large charm : magic
 Found: large charm : magic
 Found: large charm : magic
 Found: large charm : magic
+Found: ring : rare
+Found: ring : rare
+Found: ring : rare
+Found: ring : rare
+failed reading memory
