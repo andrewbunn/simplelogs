@@ -372,3 +372,4 @@ Found: flawless diamond : white
 Found: key of destruction : gray
 Found: um rune : white
 Found: key of destruction : gray
+Found: cryptic axe : gray
