@@ -445,3 +445,4 @@ Found: fal rune : gray
 Found: monarch : gray
 Found: small charm : magic
 Found: key of destruction : unique
+Found: key of destruction : gray
