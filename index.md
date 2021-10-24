@@ -338,3 +338,5 @@ Found: flawless diamond : white
 Found: amulet : set
 Found: key of destruction : white
 Found: amulet : rare
+Found: key of destruction : rare
+Found: key of destruction : gray
