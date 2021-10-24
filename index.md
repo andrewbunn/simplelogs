@@ -635,3 +635,5 @@ Found: ring : rare
 Found: flawless amethyst : white
 Found: io rune : white
 Found: grand charm : magic
+Found: key of destruction : white
+Found: ring : rare
