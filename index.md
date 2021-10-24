@@ -501,3 +501,6 @@ Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: ring : rare
 Found: small charm : magic
+Found: lacquered plate : set
+Found: large charm : magic
+Found: amulet : rare
