@@ -526,3 +526,15 @@ Found: ring : rare
 Found: ring : rare
 Found: ring : rare
 Found: ring : rare
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : white
+Found: key of destruction : white
+Found: key of destruction : white
+Found: key of destruction : white
+Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
