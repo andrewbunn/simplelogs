@@ -454,3 +454,5 @@ Found: small charm : magic
 Found: small charm : magic
 Found: amulet : set
 Found: grand charm : magic
+Found: jewel : magic
+Found: key of destruction : gray
