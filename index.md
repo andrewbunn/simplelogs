@@ -644,3 +644,5 @@ Found: key of destruction : white
 Found: ring : rare
 Found: small charm : magic
 Found: ring : rare
+Found: flawless amethyst : white
+Found: small charm : magic
