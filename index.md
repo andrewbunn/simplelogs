@@ -441,3 +441,7 @@ Found: key of destruction : gray
 Found: monarch : gray
 Found: grand charm : magic
 Found: large charm : magic
+Found: fal rune : gray
+Found: monarch : gray
+Found: small charm : magic
+Found: key of destruction : unique
