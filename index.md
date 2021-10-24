@@ -320,3 +320,7 @@ Found: Key of Destruction : rune
 Found: Key of Destruction : rune
 Found: War Boots : unique
 Found: Key of Destruction : rune
+Found: Colossus Voulge : gray
+Found: Troll Nest : unique
+Found: Flawless Amethyst : white
+Found: Key of Destruction : rune
