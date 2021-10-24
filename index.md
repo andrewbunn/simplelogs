@@ -604,3 +604,4 @@ Found: small charm : magic
 Found: key of destruction : gray
 Found: large charm : magic
 Found: key of destruction : gray
+Found: ring : rare
