@@ -457,3 +457,4 @@ Found: grand charm : magic
 Found: jewel : magic
 Found: key of destruction : gray
 failed reading memory
+Found: key of destruction : white
