@@ -617,3 +617,6 @@ Found: mage plate : gray
 Found: large charm : magic
 Found: key of destruction : gray
 Found: flawless amethyst : white
+Found: colossus voulge : gray
+Found: small charm : magic
+Found: flawless amethyst : white
