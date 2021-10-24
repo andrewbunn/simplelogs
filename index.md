@@ -458,3 +458,6 @@ Found: jewel : magic
 Found: key of destruction : gray
 failed reading memory
 Found: key of destruction : white
+Found: amulet : set
+Found: archon plate : white
+Found: archon plate : white
