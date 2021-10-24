@@ -349,3 +349,5 @@ Found: key of destruction : gray
 Found: small charm : magic
 Found: dol rune : gray
 Found: ring : rare
+Found: grand charm : magic
+Found: colossus voulge : gray
