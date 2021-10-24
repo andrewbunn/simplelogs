@@ -555,3 +555,11 @@ Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: flawless amethyst : white
+Found: small charm : magic
+Found: small charm : magic
+Found: small charm : magic
+Found: small charm : magic
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
