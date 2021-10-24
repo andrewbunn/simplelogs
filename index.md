@@ -609,3 +609,4 @@ Found: demonhide sash : unique
 Found: key of destruction : gray
 Found: grand charm : magic
 failed reading memory
+Found: ring : rare
