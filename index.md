@@ -597,3 +597,4 @@ Found: flawless amethyst : white
 Found: key of destruction : gray
 Found: lum rune : white
 Found: kraken shell : unique
+Found: key of destruction : white
