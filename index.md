@@ -373,3 +373,5 @@ Found: key of destruction : gray
 Found: um rune : white
 Found: key of destruction : gray
 Found: cryptic axe : gray
+Found: io rune : white
+Found: key of destruction : white
