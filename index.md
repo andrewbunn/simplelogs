@@ -358,3 +358,4 @@ Found: grand charm : magic
 Found: flawless diamond : white
 Found: fal rune : white
 Found: key of destruction : gray
+Found: key of destruction : white
