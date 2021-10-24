@@ -419,3 +419,4 @@ Found: flawless amethyst : white
 Found: key of destruction : gray
 Found: large charm : magic
 Found: key of destruction : white
+Found: grand charm : magic
