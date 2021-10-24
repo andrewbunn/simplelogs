@@ -612,3 +612,5 @@ failed reading memory
 Found: ring : rare
 Found: large charm : magic
 Found: grand charm : magic
+Found: amulet : rare
+Found: mage plate : gray
