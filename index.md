@@ -426,3 +426,5 @@ Found: ring : rare
 Found: grand charm : magic
 Found: ring : rare
 Found: jewel : magic
+Found: small charm : magic
+Found: ring : rare
