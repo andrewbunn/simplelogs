@@ -348,3 +348,4 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 Found: small charm : magic
 Found: dol rune : gray
+Found: ring : rare
