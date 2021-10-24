@@ -511,3 +511,7 @@ Found: key of destruction : rare
 Found: key of destruction : gray
 Found: key of destruction : set
 Found: key of destruction : white
+Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
