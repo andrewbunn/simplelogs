@@ -614,3 +614,4 @@ Found: large charm : magic
 Found: grand charm : magic
 Found: amulet : rare
 Found: mage plate : gray
+Found: large charm : magic
