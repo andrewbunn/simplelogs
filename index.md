@@ -610,3 +610,4 @@ Found: key of destruction : gray
 Found: grand charm : magic
 failed reading memory
 Found: ring : rare
+Found: large charm : magic
