@@ -470,3 +470,8 @@ Found: key of destruction : white
 Found: small charm : magic
 Found: small charm : magic
 Found: io rune : white
+Found: key of destruction : gray
+Found: key of destruction : white
+Found: key of destruction : unique
+Found: grand charm : magic
+Found: key of destruction : white
