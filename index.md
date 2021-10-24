@@ -637,3 +637,4 @@ Found: io rune : white
 Found: grand charm : magic
 Found: key of destruction : white
 Found: ring : rare
+Found: fal rune : white
