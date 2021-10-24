@@ -487,3 +487,4 @@ Found: key of destruction : gray
 Found: key of destruction : set
 Found: um rune : gray
 Found: phase blade : gray
+Found: large charm : magic
