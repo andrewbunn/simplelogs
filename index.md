@@ -496,3 +496,5 @@ Found: large charm : magic
 Found: jewel : magic
 Found: amulet : set
 Found: grand charm : magic
+Found: cryptic axe : gray
+Found: flawless amethyst : white
