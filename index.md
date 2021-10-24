@@ -465,3 +465,5 @@ Found: key of destruction : gray
 Found: jewel : magic
 Found: ring : rare
 Found: war belt : unique
+Found: flawless amethyst : white
+Found: key of destruction : white
