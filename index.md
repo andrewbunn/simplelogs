@@ -405,3 +405,5 @@ Found: grand charm : magic
 Found: key of destruction : white
 Found: flawless amethyst : white
 Found: large charm : magic
+Found: flawless amethyst : white
+Found: dol rune : white
