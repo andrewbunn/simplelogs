@@ -414,3 +414,6 @@ Found: thresher : gray
 Found: jewel : magic
 Found: grand charm : magic
 Found: flawless amethyst : white
+Found: grand charm : magic
+Found: flawless amethyst : white
+Found: key of destruction : gray
