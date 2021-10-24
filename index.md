@@ -314,3 +314,5 @@ Found: Key of Destruction : rune
 Found: Flawless Topaz : white
 Found: Phase Blade : gray
 Found: Troll Nest : unique
+Found: Russet Armor : unique
+failed reading memory
