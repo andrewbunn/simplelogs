@@ -407,3 +407,7 @@ Found: flawless amethyst : white
 Found: large charm : magic
 Found: flawless amethyst : white
 Found: dol rune : white
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: thresher : gray
