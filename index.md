@@ -437,3 +437,5 @@ Found: amulet : unique
 Found: key of destruction : white
 Found: large charm : magic
 Found: phase blade : gray
+Found: key of destruction : gray
+Found: monarch : gray
