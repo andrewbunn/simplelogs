@@ -324,3 +324,6 @@ Found: Colossus Voulge : gray
 Found: Troll Nest : unique
 Found: Flawless Amethyst : white
 Found: Key of Destruction : rune
+Found:  : white
+Found:  : white
+Found:  : magic
