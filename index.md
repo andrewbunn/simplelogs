@@ -482,3 +482,5 @@ Found: large charm : magic
 Found: large charm : magic
 Found: key of destruction : gray
 Found: matriarchal javelin : unique
+Found: grand charm : magic
+Found: key of destruction : gray
