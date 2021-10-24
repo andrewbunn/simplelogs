@@ -641,3 +641,6 @@ Found: fal rune : white
 Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: key of destruction : white
+Found: ring : rare
+Found: small charm : magic
+Found: ring : rare
