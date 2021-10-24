@@ -351,3 +351,7 @@ Found: dol rune : gray
 Found: ring : rare
 Found: grand charm : magic
 Found: colossus voulge : gray
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: key of destruction : unique
+Found: grand charm : magic
