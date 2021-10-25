@@ -825,3 +825,7 @@ Found: key of destruction : gray
 failed reading memory
 failed reading memory
 Found: small charm : magic
+Found: key of destruction : white
+Found: eldritch orb : unique
+Found: grand charm : magic
+Found: lum rune : white
