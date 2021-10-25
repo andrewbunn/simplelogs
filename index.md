@@ -907,3 +907,5 @@ Found: key of destruction : rare
 Found: key of destruction : gray
 Found: key of destruction : gray
 Found: jewel : magic
+Found: amulet : rare
+Found: key of destruction : gray
