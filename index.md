@@ -830,3 +830,5 @@ Found: eldritch orb : unique
 Found: grand charm : magic
 Found: lum rune : white
 Found: jewel : magic
+Found: key of destruction : gray
+Found: small charm : magic
