@@ -829,3 +829,4 @@ Found: key of destruction : white
 Found: eldritch orb : unique
 Found: grand charm : magic
 Found: lum rune : white
+Found: jewel : magic
