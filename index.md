@@ -653,3 +653,5 @@ Found: amulet : rare
 Found: grand charm : magic
 Found: colossus voulge : gray
 Found: grand charm : magic
+Found: jewel : rare
+Found: jewel : rare
