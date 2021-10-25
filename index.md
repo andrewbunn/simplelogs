@@ -889,3 +889,7 @@ Found: grand charm : magic
 Found: flawless amethyst : white
 Found: grand charm : magic
 Found: great poleaxe : gray
+Found: small charm : magic
+Found: small charm : magic
+Found: phase blade : gray
+Found: key of destruction : white
