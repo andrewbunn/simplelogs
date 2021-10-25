@@ -694,3 +694,8 @@ Found: grand charm : magic
 Found: key of destruction : gray
 Found: small charm : magic
 Found: jewel : rare
+Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
+Found: key of destruction : gray
+Found: jewel : magic
