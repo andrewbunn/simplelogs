@@ -699,3 +699,6 @@ Found: grand charm : magic
 Found: grand charm : magic
 Found: key of destruction : gray
 Found: jewel : magic
+Found: ko rune : gray
+Found: small charm : magic
+Found: large charm : magic
