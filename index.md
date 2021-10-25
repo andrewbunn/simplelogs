@@ -664,3 +664,5 @@ Found: key of destruction : unique
 Found: troll nest : unique
 Found: ring : rare
 Found: small charm : magic
+Found: small charm : magic
+Found: key of destruction : white
