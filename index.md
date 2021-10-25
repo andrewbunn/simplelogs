@@ -740,3 +740,8 @@ Found: large charm : magic
 Found: small charm : magic
 Found: small charm : magic
 Found: large charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
+Found: large charm : magic
+Found: key of destruction : gray
