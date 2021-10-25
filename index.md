@@ -706,3 +706,5 @@ Found: key of destruction : white
 Found: ring : rare
 Found: io rune : white
 Found: small charm : magic
+Found: key of destruction : white
+Found: serpentskin armor : unique
