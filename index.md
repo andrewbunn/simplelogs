@@ -817,3 +817,5 @@ Found: cryptic axe : gray
 Found: key of destruction : white
 Found: key of destruction : white
 Found: key of destruction : white
+Found: monarch : gray
+Found: key of destruction : white
