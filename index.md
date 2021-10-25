@@ -677,3 +677,7 @@ Found: grand matron bow : white
 Found: large charm : magic
 Found: key of destruction : gray
 Found: key of destruction : gray
+Found: lum rune : white
+Found: amulet : rare
+Found: small charm : magic
+Found: ring : rare
