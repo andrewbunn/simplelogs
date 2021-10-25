@@ -796,3 +796,4 @@ failed reading memory
 failed reading memory
 failed reading memory
 failed reading memory
+Found: jewel : magic
