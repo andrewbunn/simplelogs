@@ -711,3 +711,4 @@ Found: serpentskin armor : unique
 Found: colossus voulge : gray
 Found: amulet : set
 failed reading memory
+Found: ring : rare
