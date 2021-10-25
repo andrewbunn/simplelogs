@@ -802,3 +802,4 @@ Found: jewel : magic
 Found: flawless amethyst : white
 Found: key of destruction : gray
 Found: key of destruction : magic
+Found: hel rune : white
