@@ -735,3 +735,5 @@ failed reading memory
 Found: small charm : magic
 Found: key of destruction : gray
 Found: small charm : magic
+Found: key of destruction : white
+Found: large charm : magic
