@@ -767,3 +767,5 @@ Found: archon plate : white
 Found: io rune : white
 Found: small charm : magic
 Found: thresher : gray
+Found: ring : unique
+Found: mage plate : gray
