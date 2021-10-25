@@ -894,3 +894,6 @@ Found: small charm : magic
 Found: phase blade : gray
 Found: key of destruction : white
 Found: small charm : magic
+Found: tiara : rare
+Found: key of destruction : gray
+Found: flawless amethyst : white
