@@ -843,3 +843,5 @@ Found: grand charm : magic
 Found: key of destruction : white
 Found: small charm : magic
 Found: small charm : magic
+Found: small charm : magic
+Found: grand charm : magic
