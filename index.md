@@ -876,3 +876,10 @@ Found: jewel : magic
 Found: thresher : gray
 Found: fal rune : white
 Found: large charm : magic
+Found: key of destruction : white
+Found: fal rune : white
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: large charm : magic
+Found: small charm : magic
+Found: winged helm : unique
