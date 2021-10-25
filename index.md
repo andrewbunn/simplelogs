@@ -777,3 +777,5 @@ Found: fal rune : white
 Found: grand charm : magic
 Found: grand charm : magic
 Found: flawless amethyst : white
+Found: jewel : magic
+failed reading memory
