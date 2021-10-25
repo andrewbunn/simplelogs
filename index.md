@@ -797,3 +797,5 @@ failed reading memory
 failed reading memory
 failed reading memory
 Found: jewel : magic
+Found: large charm : magic
+Found: jewel : magic
