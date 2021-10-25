@@ -799,3 +799,6 @@ failed reading memory
 Found: jewel : magic
 Found: large charm : magic
 Found: jewel : magic
+Found: flawless amethyst : white
+Found: key of destruction : gray
+Found: key of destruction : magic
