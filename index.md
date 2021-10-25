@@ -666,3 +666,7 @@ Found: ring : rare
 Found: small charm : magic
 Found: small charm : magic
 Found: key of destruction : white
+Found: ral rune : gray
+Found: hel rune : white
+Found: fal rune : white
+d2 lobby never loaded
