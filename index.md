@@ -933,3 +933,4 @@ Found: fal rune : white
 Found: thresher : gray
 failed reading memory
 failed reading memory
+Found: key of destruction : gray
