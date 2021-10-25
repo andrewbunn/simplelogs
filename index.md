@@ -756,3 +756,7 @@ Found: small charm : magic
 Found: small charm : magic
 Found: jewel : magic
 failed reading memory
+Found: grand charm : magic
+Found: battle boots : unique
+Found: jewel : magic
+Found: small charm : magic
