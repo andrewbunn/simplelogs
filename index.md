@@ -946,3 +946,4 @@ Found: key of destruction : white
 Found: key of destruction : gray
 Found: grand charm : magic
 Found: small charm : magic
+failed reading memory
