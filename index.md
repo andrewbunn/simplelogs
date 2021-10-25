@@ -845,3 +845,7 @@ Found: small charm : magic
 Found: small charm : magic
 Found: small charm : magic
 Found: grand charm : magic
+Found: key of destruction : gray
+Found: ceremonial javelin : unique
+Found: hel rune : white
+Found: hel rune : white
