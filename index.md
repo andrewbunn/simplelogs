@@ -939,3 +939,5 @@ Found: io rune : gray
 Found: io rune : gray
 failed reading memory
 failed reading memory
+Found: jewel : magic
+Found: grand charm : magic
