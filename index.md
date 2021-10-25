@@ -923,3 +923,7 @@ Found: archon plate : white
 Found: key of destruction : rare
 Found: key of destruction : unique
 Found: ko rune : white
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: large charm : magic
+Found: small charm : magic
