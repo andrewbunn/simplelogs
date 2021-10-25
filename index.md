@@ -686,3 +686,4 @@ Found: coronet : rare
 Found: ring : rare
 Found: large charm : magic
 Found: key of destruction : white
+failed reading memory
