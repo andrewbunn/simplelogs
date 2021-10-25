@@ -683,3 +683,4 @@ Found: small charm : magic
 Found: ring : rare
 Found: jewel : magic
 Found: coronet : rare
+Found: ring : rare
