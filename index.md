@@ -689,3 +689,5 @@ Found: key of destruction : white
 failed reading memory
 Found: grand charm : magic
 Found: small charm : magic
+Found: tiara : rare
+Found: grand charm : magic
