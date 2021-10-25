@@ -858,3 +858,10 @@ Found: small charm : magic
 Found: jewel : magic
 Found: cryptic axe : gray
 Found: key of destruction : white
+Found: ring : rare
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: key of destruction : gray
+Found: key of destruction : gray
+d2 lobby never loaded
