@@ -803,3 +803,6 @@ Found: flawless amethyst : white
 Found: key of destruction : gray
 Found: key of destruction : magic
 Found: hel rune : white
+Found: ring : rare
+Found: grand charm : magic
+Found: large charm : magic
