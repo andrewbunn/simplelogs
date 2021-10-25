@@ -902,3 +902,4 @@ Found: jewel : magic
 Found: large charm : magic
 Found: small charm : magic
 Found: key of destruction : gray
+Found: small charm : magic
