@@ -672,3 +672,8 @@ Found: fal rune : white
 d2 lobby never loaded
 Found: key of destruction : gray
 Found: key of destruction : gray
+Found: key of destruction : white
+Found: grand matron bow : white
+Found: large charm : magic
+Found: key of destruction : gray
+Found: key of destruction : gray
