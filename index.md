@@ -648,3 +648,4 @@ Found: flawless amethyst : white
 Found: small charm : magic
 Found: large charm : magic
 Found: grand charm : magic
+Found: flawless amethyst : white
