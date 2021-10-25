@@ -703,3 +703,4 @@ Found: ko rune : gray
 Found: small charm : magic
 Found: large charm : magic
 Found: key of destruction : white
+Found: ring : rare
