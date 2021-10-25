@@ -873,3 +873,4 @@ Found: amulet : rare
 Found: ring : unique
 Found: ring : rare
 Found: jewel : magic
+Found: thresher : gray
