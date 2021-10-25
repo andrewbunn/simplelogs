@@ -733,3 +733,4 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 failed reading memory
 Found: small charm : magic
+Found: key of destruction : gray
