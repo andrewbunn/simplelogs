@@ -720,3 +720,4 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 Found: russet armor : unique
 Found: flawless amethyst : white
+failed reading memory
