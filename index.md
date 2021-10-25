@@ -938,3 +938,4 @@ Found: flawless amethyst : white
 Found: io rune : gray
 Found: io rune : gray
 failed reading memory
+failed reading memory
