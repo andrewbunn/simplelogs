@@ -941,3 +941,8 @@ failed reading memory
 failed reading memory
 Found: jewel : magic
 Found: grand charm : magic
+Found: key of destruction : white
+Found: key of destruction : white
+Found: key of destruction : gray
+Found: grand charm : magic
+Found: small charm : magic
