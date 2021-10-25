@@ -747,3 +747,5 @@ Found: large charm : magic
 Found: key of destruction : gray
 Found: key of destruction : gray
 Found: small charm : magic
+Found: key of destruction : unique
+Found: key of destruction : white
