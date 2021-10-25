@@ -922,3 +922,4 @@ Found: grand charm : magic
 Found: archon plate : white
 Found: key of destruction : rare
 Found: key of destruction : unique
+Found: ko rune : white
