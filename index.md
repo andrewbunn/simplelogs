@@ -812,3 +812,5 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 Found: key of destruction : white
 Found: amulet : unique
+Found: large charm : magic
+Found: cryptic axe : gray
