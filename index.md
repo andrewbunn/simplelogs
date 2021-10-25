@@ -808,3 +808,7 @@ Found: grand charm : magic
 Found: large charm : magic
 Found: key of destruction : gray
 Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : white
+Found: amulet : unique
