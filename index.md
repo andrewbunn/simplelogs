@@ -729,3 +729,6 @@ Found: grand charm : unique
 Found: ring : rare
 Found: hel rune : white
 Found: key of destruction : white
+Found: key of destruction : gray
+Found: key of destruction : gray
+failed reading memory
