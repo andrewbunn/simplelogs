@@ -806,3 +806,4 @@ Found: hel rune : white
 Found: ring : rare
 Found: grand charm : magic
 Found: large charm : magic
+Found: key of destruction : gray
