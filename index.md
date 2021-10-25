@@ -765,3 +765,5 @@ Found: fal rune : gray
 Found: small charm : magic
 Found: archon plate : white
 Found: io rune : white
+Found: small charm : magic
+Found: thresher : gray
