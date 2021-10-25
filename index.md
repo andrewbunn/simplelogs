@@ -885,3 +885,5 @@ Found: small charm : magic
 Found: winged helm : unique
 Found: grand charm : magic
 Found: small charm : magic
+Found: grand charm : magic
+Found: flawless amethyst : white
