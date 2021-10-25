@@ -911,3 +911,4 @@ Found: amulet : rare
 Found: key of destruction : gray
 Found: diadem : unique
 Found: key of destruction : unique
+Found: key of destruction : gray
