@@ -932,3 +932,4 @@ Found: fal rune : gray
 Found: fal rune : white
 Found: thresher : gray
 failed reading memory
+failed reading memory
