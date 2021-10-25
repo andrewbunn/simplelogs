@@ -893,3 +893,4 @@ Found: small charm : magic
 Found: small charm : magic
 Found: phase blade : gray
 Found: key of destruction : white
+Found: small charm : magic
