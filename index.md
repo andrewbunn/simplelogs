@@ -874,3 +874,5 @@ Found: ring : unique
 Found: ring : rare
 Found: jewel : magic
 Found: thresher : gray
+Found: fal rune : white
+Found: large charm : magic
