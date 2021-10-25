@@ -918,3 +918,5 @@ Found: grand charm : magic
 Found: grand charm : magic
 Found: small charm : magic
 Found: ring : rare
+Found: grand charm : magic
+Found: archon plate : white
