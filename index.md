@@ -816,3 +816,4 @@ Found: large charm : magic
 Found: cryptic axe : gray
 Found: key of destruction : white
 Found: key of destruction : white
+Found: key of destruction : white
