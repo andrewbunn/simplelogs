@@ -868,3 +868,5 @@ d2 lobby never loaded
 Found: key of destruction : white
 Found: ring : unique
 Found: large charm : magic
+Found: key of destruction : unique
+Found: amulet : rare
