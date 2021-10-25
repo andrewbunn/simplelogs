@@ -753,3 +753,5 @@ Found: key of destruction : gray
 Found: war belt : unique
 Found: war belt : unique
 Found: small charm : magic
+Found: small charm : magic
+Found: jewel : magic
