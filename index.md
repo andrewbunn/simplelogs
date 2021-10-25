@@ -716,3 +716,7 @@ failed reading memory
 failed reading memory
 Found: jewel : unique
 Found: large charm : magic
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: russet armor : unique
+Found: flawless amethyst : white
