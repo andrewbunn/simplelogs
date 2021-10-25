@@ -656,3 +656,5 @@ Found: grand charm : magic
 Found: jewel : rare
 Found: jewel : rare
 Found: key of destruction : gray
+Found: key of destruction : gray
+failed reading memory
