@@ -934,3 +934,6 @@ Found: thresher : gray
 failed reading memory
 failed reading memory
 Found: key of destruction : gray
+Found: flawless amethyst : white
+Found: io rune : gray
+Found: io rune : gray
