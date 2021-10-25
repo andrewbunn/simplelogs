@@ -849,3 +849,4 @@ Found: key of destruction : gray
 Found: ceremonial javelin : unique
 Found: hel rune : white
 Found: hel rune : white
+Found: grand charm : magic
