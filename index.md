@@ -721,3 +721,9 @@ Found: key of destruction : gray
 Found: russet armor : unique
 Found: flawless amethyst : white
 failed reading memory
+Found: large charm : magic
+Found: grand charm : unique
+Found: grand charm : unique
+Found: grand charm : unique
+Found: grand charm : unique
+Found: ring : rare
