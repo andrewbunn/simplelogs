@@ -670,3 +670,4 @@ Found: ral rune : gray
 Found: hel rune : white
 Found: fal rune : white
 d2 lobby never loaded
+Found: key of destruction : gray
