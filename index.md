@@ -769,3 +769,4 @@ Found: small charm : magic
 Found: thresher : gray
 Found: ring : unique
 Found: mage plate : gray
+failed reading memory
