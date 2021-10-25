@@ -780,3 +780,4 @@ Found: flawless amethyst : white
 Found: jewel : magic
 failed reading memory
 failed reading memory
+failed reading memory
