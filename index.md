@@ -775,3 +775,5 @@ Found: key of destruction : unique
 Found: colossus voulge : gray
 Found: fal rune : white
 Found: grand charm : magic
+Found: grand charm : magic
+Found: flawless amethyst : white
