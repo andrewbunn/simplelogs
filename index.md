@@ -870,3 +870,4 @@ Found: ring : unique
 Found: large charm : magic
 Found: key of destruction : unique
 Found: amulet : rare
+Found: ring : unique
