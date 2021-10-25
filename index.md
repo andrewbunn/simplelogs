@@ -661,3 +661,4 @@ failed reading memory
 Found: jewel : magic
 Found: large charm : magic
 Found: key of destruction : unique
+Found: troll nest : unique
