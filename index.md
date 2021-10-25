@@ -899,3 +899,5 @@ Found: key of destruction : gray
 Found: flawless amethyst : white
 Found: key of destruction : white
 Found: jewel : magic
+Found: large charm : magic
+Found: small charm : magic
