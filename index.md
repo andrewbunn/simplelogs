@@ -920,3 +920,5 @@ Found: small charm : magic
 Found: ring : rare
 Found: grand charm : magic
 Found: archon plate : white
+Found: key of destruction : rare
+Found: key of destruction : unique
