@@ -857,3 +857,4 @@ Found: flawless amethyst : white
 Found: small charm : magic
 Found: jewel : magic
 Found: cryptic axe : gray
+Found: key of destruction : white
