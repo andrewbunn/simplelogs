@@ -840,3 +840,6 @@ Found: fal rune : white
 Found: flawless amethyst : white
 Found: jewel : magic
 Found: grand charm : magic
+Found: key of destruction : white
+Found: small charm : magic
+Found: small charm : magic
