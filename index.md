@@ -772,3 +772,6 @@ Found: mage plate : gray
 failed reading memory
 failed reading memory
 Found: key of destruction : unique
+Found: colossus voulge : gray
+Found: fal rune : white
+Found: grand charm : magic
