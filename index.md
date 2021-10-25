@@ -693,3 +693,4 @@ Found: tiara : rare
 Found: grand charm : magic
 Found: key of destruction : gray
 Found: small charm : magic
+Found: jewel : rare
