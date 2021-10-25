@@ -771,3 +771,4 @@ Found: ring : unique
 Found: mage plate : gray
 failed reading memory
 failed reading memory
+Found: key of destruction : unique
