@@ -681,3 +681,5 @@ Found: lum rune : white
 Found: amulet : rare
 Found: small charm : magic
 Found: ring : rare
+Found: jewel : magic
+Found: coronet : rare
