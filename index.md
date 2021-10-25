@@ -651,3 +651,5 @@ Found: grand charm : magic
 Found: flawless amethyst : white
 Found: amulet : rare
 Found: grand charm : magic
+Found: colossus voulge : gray
+Found: grand charm : magic
