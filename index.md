@@ -913,3 +913,5 @@ Found: diadem : unique
 Found: key of destruction : unique
 Found: key of destruction : gray
 Found: key of destruction : gray
+Found: grand charm : magic
+Found: grand charm : magic
