@@ -832,3 +832,5 @@ Found: lum rune : white
 Found: jewel : magic
 Found: key of destruction : gray
 Found: small charm : magic
+Found: key of destruction : gray
+Found: large charm : magic
