@@ -761,3 +761,7 @@ Found: battle boots : unique
 Found: jewel : magic
 Found: small charm : magic
 Found: small charm : magic
+Found: fal rune : gray
+Found: small charm : magic
+Found: archon plate : white
+Found: io rune : white
