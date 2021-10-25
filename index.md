@@ -837,3 +837,6 @@ Found: large charm : magic
 Found: key of destruction : white
 Found: key of destruction : unique
 Found: fal rune : white
+Found: flawless amethyst : white
+Found: jewel : magic
+Found: grand charm : magic
