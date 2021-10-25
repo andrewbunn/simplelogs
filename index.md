@@ -662,3 +662,5 @@ Found: jewel : magic
 Found: large charm : magic
 Found: key of destruction : unique
 Found: troll nest : unique
+Found: ring : rare
+Found: small charm : magic
