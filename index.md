@@ -897,3 +897,5 @@ Found: small charm : magic
 Found: tiara : rare
 Found: key of destruction : gray
 Found: flawless amethyst : white
+Found: key of destruction : white
+Found: jewel : magic
