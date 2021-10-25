@@ -822,3 +822,4 @@ Found: key of destruction : white
 Found: jewel : magic
 Found: grand charm : magic
 Found: key of destruction : gray
+failed reading memory
