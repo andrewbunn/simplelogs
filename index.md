@@ -1153,3 +1153,4 @@ Found: key of destruction : gray
 Found: ring : rare
 Found: key of destruction : unique
 Found: key of destruction : white
+Found: amulet : rare
