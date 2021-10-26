@@ -1104,3 +1104,6 @@ Found: small charm : magic
 Found: small charm : magic
 Found: jewel : rare
 Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
+Found: mesh armor : unique
