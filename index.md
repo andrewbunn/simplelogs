@@ -1190,3 +1190,4 @@ Found: lum rune : gray
 Found: thresher : gray
 Found: grand charm : magic
 Found: flawless amethyst : white
+Found: jewel : rare
