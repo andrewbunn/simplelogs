@@ -1026,3 +1026,6 @@ Found: large charm : magic
 Found: grand charm : magic
 Found: grand charm : magic
 Found: jewel : rare
+Found: amulet : set
+Found: thresher : unique
+Found: small charm : magic
