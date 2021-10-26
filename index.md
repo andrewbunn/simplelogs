@@ -1134,3 +1134,4 @@ Found: jewel : magic
 Found: amulet : set
 Found: flawless amethyst : white
 Found: jewel : magic
+Found: key of destruction : gray
