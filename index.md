@@ -1009,3 +1009,5 @@ failed reading memory
 Found: large charm : magic
 Found: key of destruction : gray
 Found: large charm : magic
+Found: key of destruction : gray
+Found: key of destruction : gray
