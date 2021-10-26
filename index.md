@@ -1126,3 +1126,4 @@ Found: key of destruction : gray
 failed reading memory
 Found: large charm : magic
 Found: key of destruction : white
+failed reading memory
