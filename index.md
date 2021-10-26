@@ -1165,3 +1165,4 @@ Found: jewel : magic
 Found: grand charm : magic
 Found: amulet : unique
 Found: large charm : magic
+failed reading memory
