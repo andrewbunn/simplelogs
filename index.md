@@ -962,3 +962,4 @@ Found: jewel : unique
 Found: demonhide sash : unique
 Found: ral rune : white
 Found: grand charm : magic
+failed reading memory
