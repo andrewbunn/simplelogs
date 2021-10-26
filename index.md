@@ -1064,3 +1064,5 @@ Found: grand charm : magic
 Found: jewel : magic
 Found: jewel : magic
 Found: small charm : magic
+Found: key of destruction : gray
+Found: great poleaxe : gray
