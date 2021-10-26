@@ -1114,3 +1114,4 @@ Found: grand charm : magic
 Found: small charm : magic
 Found: small charm : magic
 Found: ring : rare
+Found: key of destruction : gray
