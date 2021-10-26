@@ -1118,3 +1118,5 @@ Found: key of destruction : gray
 Found: key of destruction : white
 Found: phase blade : gray
 Found: war belt : unique
+Found: flawless amethyst : white
+Found: jewel : magic
