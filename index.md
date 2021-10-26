@@ -1186,3 +1186,7 @@ Found: small charm : magic
 Found: jewel : magic
 Found: sur rune : gray
 failed reading memory
+Found: lum rune : gray
+Found: thresher : gray
+Found: grand charm : magic
+Found: flawless amethyst : white
