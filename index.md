@@ -1115,3 +1115,5 @@ Found: small charm : magic
 Found: small charm : magic
 Found: ring : rare
 Found: key of destruction : gray
+Found: key of destruction : white
+Found: phase blade : gray
