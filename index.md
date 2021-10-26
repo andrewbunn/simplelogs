@@ -1088,3 +1088,6 @@ failed reading memory
 Found: small charm : magic
 Found: key of destruction : white
 Found: cryptic axe : gray
+Found: sacred targe : white
+Found: ring : rare
+Found: ral rune : white
