@@ -1034,3 +1034,5 @@ Found: flawless amethyst : white
 Found: ring : rare
 failed reading memory
 Found: ring : rare
+Found: key of destruction : gray
+Found: ring : rare
