@@ -1069,3 +1069,4 @@ Found: great poleaxe : gray
 Found: large charm : magic
 Found: large charm : magic
 Found: key of destruction : white
+Found: key of destruction : white
