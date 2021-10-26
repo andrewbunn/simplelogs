@@ -1179,3 +1179,5 @@ Found: large charm : magic
 Found: large charm : magic
 Found: amulet : set
 Found: key of destruction : unique
+Found: key of destruction : white
+Found: key of destruction : gray
