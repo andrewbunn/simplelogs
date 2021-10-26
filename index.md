@@ -997,3 +997,4 @@ Found: large charm : magic
 Found: jewel : magic
 Found: jewel : magic
 Found: large charm : magic
+Found: flawless amethyst : white
