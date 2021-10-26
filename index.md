@@ -1048,3 +1048,5 @@ Found: tiara : rare
 Found: key of destruction : white
 Found: key of destruction : gray
 Found: jewel : magic
+Found: ring : rare
+Found: ral rune : gray
