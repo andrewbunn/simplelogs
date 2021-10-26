@@ -1033,3 +1033,4 @@ Found: jewel : magic
 Found: flawless amethyst : white
 Found: ring : rare
 failed reading memory
+Found: ring : rare
