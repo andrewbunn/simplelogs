@@ -1077,3 +1077,4 @@ Found: key of destruction : white
 game never loaded
 failed reading memory
 Found: ring : rare
+Found: large charm : magic
