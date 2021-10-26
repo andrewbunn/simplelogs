@@ -1093,3 +1093,6 @@ Found: ring : rare
 Found: ral rune : white
 Found: large charm : magic
 Found: grand charm : magic
+Found: amulet : set
+Found: key of destruction : white
+failed reading memory
