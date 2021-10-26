@@ -1100,3 +1100,5 @@ Found: grand charm : magic
 Found: small charm : magic
 Found: flawless amethyst : white
 Found: ring : rare
+Found: small charm : magic
+Found: small charm : magic
