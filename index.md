@@ -1050,3 +1050,5 @@ Found: key of destruction : gray
 Found: jewel : magic
 Found: ring : rare
 Found: ral rune : gray
+Found: flawless amethyst : white
+Found: amulet : set
