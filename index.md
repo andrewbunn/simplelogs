@@ -1058,3 +1058,4 @@ Found: amulet : set
 Found: key of destruction : gray
 Found: jewel : magic
 Found: key of destruction : gray
+failed reading memory
