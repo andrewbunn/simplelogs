@@ -1108,3 +1108,4 @@ Found: grand charm : magic
 Found: grand charm : magic
 Found: mesh armor : unique
 Found: flawless amethyst : white
+Found: small charm : magic
