@@ -1091,3 +1091,4 @@ Found: cryptic axe : gray
 Found: sacred targe : white
 Found: ring : rare
 Found: ral rune : white
+Found: large charm : magic
