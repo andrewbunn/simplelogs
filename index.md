@@ -967,3 +967,5 @@ Found: key of destruction : white
 failed reading memory
 Found: jewel : magic
 Found: key of destruction : white
+Found: jewel : magic
+Found: hel rune : white
