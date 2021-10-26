@@ -953,3 +953,4 @@ Found: small charm : magic
 Found: key of destruction : gray
 Found: key of destruction : gray
 Found: ring : rare
+failed reading memory
