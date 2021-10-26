@@ -1183,3 +1183,5 @@ Found: key of destruction : white
 Found: key of destruction : gray
 Found: key of destruction : white
 Found: small charm : magic
+Found: jewel : magic
+Found: sur rune : gray
