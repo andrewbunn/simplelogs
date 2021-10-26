@@ -1120,3 +1120,5 @@ Found: phase blade : gray
 Found: war belt : unique
 Found: flawless amethyst : white
 Found: jewel : magic
+Found: fal rune : unique
+Found: jewel : rare
