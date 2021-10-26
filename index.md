@@ -1150,3 +1150,5 @@ Found: eldritch orb : unique
 Found: key of destruction : gray
 Found: grand charm : magic
 Found: key of destruction : gray
+Found: ring : rare
+Found: key of destruction : unique
