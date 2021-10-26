@@ -995,3 +995,5 @@ Found: key of destruction : white
 Found: amulet : rare
 Found: large charm : magic
 Found: jewel : magic
+Found: jewel : magic
+Found: large charm : magic
