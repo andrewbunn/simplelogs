@@ -1143,3 +1143,4 @@ Found: key of destruction : white
 Found: winged axe : unique
 Found: flawless amethyst : white
 Found: small charm : magic
+Found: key of destruction : gray
