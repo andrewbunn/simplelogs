@@ -1185,3 +1185,4 @@ Found: key of destruction : white
 Found: small charm : magic
 Found: jewel : magic
 Found: sur rune : gray
+failed reading memory
