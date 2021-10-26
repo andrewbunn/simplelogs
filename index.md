@@ -985,3 +985,4 @@ failed reading memory
 failed reading memory
 failed reading memory
 failed reading memory
+Found: flawless amethyst : white
