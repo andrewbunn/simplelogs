@@ -1196,3 +1196,4 @@ Found: large charm : magic
 Found: grand charm : magic
 Found: key of destruction : gray
 Found: key of destruction : gray
+failed reading memory
