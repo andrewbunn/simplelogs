@@ -1177,3 +1177,5 @@ Found: small charm : magic
 Found: large charm : magic
 Found: large charm : magic
 Found: large charm : magic
+Found: amulet : set
+Found: key of destruction : unique
