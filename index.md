@@ -1197,3 +1197,5 @@ Found: grand charm : magic
 Found: key of destruction : gray
 Found: key of destruction : gray
 failed reading memory
+Found: eldritch orb : unique
+Found: flawless amethyst : white
