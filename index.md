@@ -978,3 +978,4 @@ Found: thresher : gray
 Found: large charm : magic
 Found: key of destruction : gray
 Found: tiara : unique
+failed reading memory
