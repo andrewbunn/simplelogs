@@ -1096,3 +1096,5 @@ Found: grand charm : magic
 Found: amulet : set
 Found: key of destruction : white
 failed reading memory
+Found: grand charm : magic
+Found: small charm : magic
