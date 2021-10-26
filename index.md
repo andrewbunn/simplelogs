@@ -1014,3 +1014,6 @@ Found: key of destruction : gray
 Found: large charm : magic
 Found: fal rune : gray
 Found: large charm : magic
+Found: flawless amethyst : white
+Found: amulet : rare
+Found: ring : rare
