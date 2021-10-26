@@ -1160,3 +1160,4 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 failed reading memory
 failed reading memory
+Found: key of destruction : white
