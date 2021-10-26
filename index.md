@@ -1171,3 +1171,4 @@ Found: key of destruction : white
 Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: grand charm : magic
+Found: ceremonial javelin : unique
