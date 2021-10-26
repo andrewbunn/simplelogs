@@ -957,3 +957,8 @@ failed reading memory
 Found: grand charm : magic
 Found: amulet : set
 Found: jewel : magic
+Found: jewel : unique
+Found: jewel : unique
+Found: demonhide sash : unique
+Found: ral rune : white
+Found: grand charm : magic
