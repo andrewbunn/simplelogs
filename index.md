@@ -1059,3 +1059,4 @@ Found: key of destruction : gray
 Found: jewel : magic
 Found: key of destruction : gray
 failed reading memory
+failed reading memory
