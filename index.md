@@ -1200,3 +1200,4 @@ failed reading memory
 Found: eldritch orb : unique
 Found: flawless amethyst : white
 Found: small charm : magic
+Found: key of destruction : gray
