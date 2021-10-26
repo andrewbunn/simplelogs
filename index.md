@@ -1172,3 +1172,6 @@ Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: grand charm : magic
 Found: ceremonial javelin : unique
+Found: small charm : magic
+Found: small charm : magic
+Found: large charm : magic
