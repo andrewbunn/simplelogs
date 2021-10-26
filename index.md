@@ -1080,3 +1080,6 @@ Found: ring : rare
 Found: large charm : magic
 Found: ring : rare
 Found: ring : rare
+Found: grand charm : magic
+Found: ring : unique
+Found: thresher : gray
