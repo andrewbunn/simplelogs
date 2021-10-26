@@ -987,3 +987,4 @@ failed reading memory
 failed reading memory
 Found: flawless amethyst : white
 failed reading memory
+game never loaded
