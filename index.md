@@ -1154,3 +1154,5 @@ Found: ring : rare
 Found: key of destruction : unique
 Found: key of destruction : white
 Found: amulet : rare
+Found: small charm : magic
+Found: key of destruction : white
