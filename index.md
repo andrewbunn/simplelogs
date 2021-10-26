@@ -969,3 +969,7 @@ Found: jewel : magic
 Found: key of destruction : white
 Found: jewel : magic
 Found: hel rune : white
+Found: flawless amethyst : white
+Found: grand charm : magic
+Found: grand charm : magic
+Found: flawless amethyst : white
