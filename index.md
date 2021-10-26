@@ -1122,3 +1122,5 @@ Found: flawless amethyst : white
 Found: jewel : magic
 Found: fal rune : unique
 Found: jewel : rare
+Found: key of destruction : gray
+failed reading memory
