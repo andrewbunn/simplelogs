@@ -1029,3 +1029,4 @@ Found: jewel : rare
 Found: amulet : set
 Found: thresher : unique
 Found: small charm : magic
+Found: jewel : magic
