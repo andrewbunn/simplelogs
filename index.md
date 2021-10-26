@@ -1193,3 +1193,5 @@ Found: flawless amethyst : white
 Found: jewel : rare
 Found: ring : unique
 Found: large charm : magic
+Found: grand charm : magic
+Found: key of destruction : gray
