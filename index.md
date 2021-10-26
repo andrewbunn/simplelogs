@@ -963,3 +963,4 @@ Found: demonhide sash : unique
 Found: ral rune : white
 Found: grand charm : magic
 failed reading memory
+Found: key of destruction : white
