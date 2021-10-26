@@ -1191,3 +1191,5 @@ Found: thresher : gray
 Found: grand charm : magic
 Found: flawless amethyst : white
 Found: jewel : rare
+Found: ring : unique
+Found: large charm : magic
