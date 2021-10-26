@@ -1044,3 +1044,5 @@ Found: grand charm : magic
 Found: fal rune : white
 failed reading memory
 Found: key of destruction : white
+Found: tiara : rare
+Found: key of destruction : white
