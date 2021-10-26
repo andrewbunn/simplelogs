@@ -1099,3 +1099,4 @@ failed reading memory
 Found: grand charm : magic
 Found: small charm : magic
 Found: flawless amethyst : white
+Found: ring : rare
