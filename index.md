@@ -991,3 +991,4 @@ game never loaded
 Found: key of destruction : gray
 Found: flawless amethyst : white
 Found: amulet : set
+Found: key of destruction : white
