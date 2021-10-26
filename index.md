@@ -1132,3 +1132,5 @@ Found: grand charm : magic
 Found: key of destruction : white
 Found: jewel : magic
 Found: amulet : set
+Found: flawless amethyst : white
+Found: jewel : magic
