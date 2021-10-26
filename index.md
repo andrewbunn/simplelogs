@@ -1036,3 +1036,6 @@ failed reading memory
 Found: ring : rare
 Found: key of destruction : gray
 Found: ring : rare
+Found: key of destruction : rare
+Found: jewel : magic
+Found: key of destruction : white
