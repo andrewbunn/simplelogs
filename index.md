@@ -1167,3 +1167,4 @@ Found: amulet : unique
 Found: large charm : magic
 failed reading memory
 failed reading memory
+Found: key of destruction : white
