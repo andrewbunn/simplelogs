@@ -1083,3 +1083,5 @@ Found: ring : rare
 Found: grand charm : magic
 Found: ring : unique
 Found: thresher : gray
+Found: flawless amethyst : white
+failed reading memory
