@@ -1202,3 +1202,6 @@ Found: flawless amethyst : white
 Found: small charm : magic
 Found: key of destruction : gray
 Found: small charm : magic
+Found: fal rune : white
+Found: key of destruction : gray
+Found: large charm : magic
