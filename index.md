@@ -1055,3 +1055,6 @@ Found: amulet : set
 Found: key of destruction : rare
 Found: key of destruction : gray
 Found: amulet : set
+Found: key of destruction : gray
+Found: jewel : magic
+Found: key of destruction : gray
