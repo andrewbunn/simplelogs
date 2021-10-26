@@ -988,3 +988,6 @@ failed reading memory
 Found: flawless amethyst : white
 failed reading memory
 game never loaded
+Found: key of destruction : gray
+Found: flawless amethyst : white
+Found: amulet : set
