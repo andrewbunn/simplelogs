@@ -1163,3 +1163,5 @@ failed reading memory
 Found: key of destruction : white
 Found: jewel : magic
 Found: grand charm : magic
+Found: amulet : unique
+Found: large charm : magic
