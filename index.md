@@ -1021,3 +1021,8 @@ Found: monarch : gray
 Found: large charm : magic
 Found: large charm : magic
 Found: fal rune : white
+Found: key of destruction : gray
+Found: large charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
+Found: jewel : rare
