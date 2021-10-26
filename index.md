@@ -1073,3 +1073,4 @@ Found: key of destruction : white
 Found: large charm : magic
 Found: lacquered plate : set
 Found: russet armor : unique
+Found: key of destruction : white
