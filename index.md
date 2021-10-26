@@ -1161,3 +1161,5 @@ Found: key of destruction : gray
 failed reading memory
 failed reading memory
 Found: key of destruction : white
+Found: jewel : magic
+Found: grand charm : magic
