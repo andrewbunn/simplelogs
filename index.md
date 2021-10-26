@@ -955,3 +955,5 @@ Found: key of destruction : gray
 Found: ring : rare
 failed reading memory
 Found: grand charm : magic
+Found: amulet : set
+Found: jewel : magic
