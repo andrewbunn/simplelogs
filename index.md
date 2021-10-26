@@ -1085,3 +1085,4 @@ Found: ring : unique
 Found: thresher : gray
 Found: flawless amethyst : white
 failed reading memory
+Found: small charm : magic
