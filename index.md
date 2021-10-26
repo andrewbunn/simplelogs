@@ -1071,3 +1071,4 @@ Found: large charm : magic
 Found: key of destruction : white
 Found: key of destruction : white
 Found: large charm : magic
+Found: lacquered plate : set
