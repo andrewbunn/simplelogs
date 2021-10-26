@@ -1011,3 +1011,6 @@ Found: key of destruction : gray
 Found: large charm : magic
 Found: key of destruction : gray
 Found: key of destruction : gray
+Found: large charm : magic
+Found: fal rune : gray
+Found: large charm : magic
