@@ -1168,3 +1168,5 @@ Found: large charm : magic
 failed reading memory
 failed reading memory
 Found: key of destruction : white
+Found: flawless amethyst : white
+Found: flawless amethyst : white
