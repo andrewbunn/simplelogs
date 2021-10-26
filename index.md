@@ -1092,3 +1092,4 @@ Found: sacred targe : white
 Found: ring : rare
 Found: ral rune : white
 Found: large charm : magic
+Found: grand charm : magic
