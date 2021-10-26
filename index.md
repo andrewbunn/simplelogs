@@ -1043,3 +1043,4 @@ Found: key of destruction : white
 Found: grand charm : magic
 Found: fal rune : white
 failed reading memory
+Found: key of destruction : white
