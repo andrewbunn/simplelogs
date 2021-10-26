@@ -1030,3 +1030,6 @@ Found: amulet : set
 Found: thresher : unique
 Found: small charm : magic
 Found: jewel : magic
+Found: flawless amethyst : white
+Found: ring : rare
+failed reading memory
