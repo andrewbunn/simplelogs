@@ -1272,3 +1272,5 @@ Found: small charm : magic
 failed reading memory
 failed reading memory
 Found: great poleaxe : gray
+Found: jewel : magic
+Found: grand charm : magic
