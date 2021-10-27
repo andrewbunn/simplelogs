@@ -1369,3 +1369,7 @@ Found: jewel : magic
 Found: large charm : magic
 Found: flawless amethyst : white
 Found: key of destruction : gray
+Found: flawless amethyst : white
+Found: key of destruction : rare
+Found: jah rune : gray
+Found: key of destruction : gray
