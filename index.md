@@ -1311,3 +1311,4 @@ Found: key of destruction : white
 Found: key of destruction : white
 Found: jewel : magic
 Found: mal rune : gray
+failed reading memory
