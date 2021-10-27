@@ -1331,3 +1331,7 @@ Found: mage plate : gray
 Found: small charm : magic
 Found: jewel : magic
 Found: jewel : magic
+Found: key of destruction : gray
+Found: cryptic axe : gray
+Found: key of destruction : gray
+Found: ring : rare
