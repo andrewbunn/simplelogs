@@ -1425,3 +1425,8 @@ Found: flawless amethyst : white
 Found: grand charm : magic
 Found: lacquered plate : set
 Found: key of destruction : gray
+Found: ring : unique
+Found: jewel : rare
+Found: jewel : rare
+Found: flawless amethyst : white
+Found: flawless amethyst : white
