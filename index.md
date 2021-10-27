@@ -1417,3 +1417,8 @@ Found: small charm : magic
 Found: key of destruction : gray
 Found: flawless amethyst : white
 failed reading memory
+Found: small charm : magic
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: flawless amethyst : white
+Found: flawless amethyst : white
