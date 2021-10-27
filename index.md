@@ -1475,3 +1475,5 @@ Found: key of destruction : white
 d2 lobby never loaded
 failed reading memory
 failed reading memory
+Found: key of destruction : gray
+Found: amulet : rare
