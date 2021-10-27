@@ -1207,3 +1207,6 @@ Found: key of destruction : gray
 Found: large charm : magic
 Found: amulet : set
 Found: small charm : magic
+Found: phase blade : gray
+Found: large charm : magic
+Found: key of destruction : white
