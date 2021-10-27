@@ -1355,3 +1355,5 @@ Found: ring : rare
 Found: grand charm : magic
 failed reading memory
 failed reading memory
+Found: grand charm : magic
+Found: jewel : magic
