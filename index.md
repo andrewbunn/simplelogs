@@ -1303,3 +1303,5 @@ Found: thresher : gray
 Found: key of destruction : set
 Found: flawless amethyst : white
 Found: jewel : rare
+Found: key of destruction : unique
+Found: ring : rare
