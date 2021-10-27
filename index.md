@@ -1327,3 +1327,7 @@ Found: small charm : magic
 Found: ring : rare
 Found: ring : rare
 Found: amulet : set
+Found: mage plate : gray
+Found: small charm : magic
+Found: jewel : magic
+Found: jewel : magic
