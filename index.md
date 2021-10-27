@@ -1462,3 +1462,6 @@ Found: jewel : magic
 Found: jewel : magic
 Found: jewel : magic
 Found: gul rune : white
+Found: gul rune : gray
+Found: key of destruction : white
+Found: key of destruction : unique
