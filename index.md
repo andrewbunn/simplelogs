@@ -1235,3 +1235,5 @@ Found: archon plate : white
 Found: key of destruction : gray
 Found: key of destruction : gray
 Found: cryptic axe : gray
+Found: amulet : rare
+Found: ring : rare
