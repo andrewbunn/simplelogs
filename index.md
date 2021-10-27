@@ -1336,3 +1336,5 @@ Found: cryptic axe : gray
 Found: key of destruction : gray
 Found: ring : rare
 Found: jewel : magic
+Found: jewel : magic
+Found: amulet : rare
