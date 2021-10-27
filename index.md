@@ -1249,3 +1249,5 @@ failed reading memory
 failed reading memory
 failed reading memory
 failed reading memory
+Found: large charm : magic
+Found: ring : unique
