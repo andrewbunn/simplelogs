@@ -1466,3 +1466,5 @@ Found: gul rune : gray
 Found: key of destruction : white
 Found: key of destruction : unique
 failed reading memory
+Found: large charm : magic
+Found: large charm : magic
