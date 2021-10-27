@@ -1314,3 +1314,5 @@ Found: mal rune : gray
 failed reading memory
 failed reading memory
 Found: mal rune : white
+Found: small charm : magic
+Found: flawless amethyst : white
