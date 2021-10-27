@@ -1451,3 +1451,5 @@ Found: grand charm : magic
 Found: archon plate : white
 Found: key of destruction : gray
 Found: key of destruction : gray
+Found: gul rune : gray
+Found: thresher : unique
