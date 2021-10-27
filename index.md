@@ -1434,3 +1434,5 @@ failed reading memory
 failed reading memory
 Found: key of destruction : gray
 Found: jewel : rare
+Found: small charm : magic
+Found: large charm : magic
