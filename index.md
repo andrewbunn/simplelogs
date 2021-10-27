@@ -1232,3 +1232,6 @@ failed reading memory
 game never loaded
 failed reading memory
 Found: archon plate : white
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: cryptic axe : gray
