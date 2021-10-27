@@ -1400,3 +1400,7 @@ Found: ring : rare
 Found: grand charm : magic
 Found: jewel : magic
 Found: key of destruction : unique
+Found: jewel : magic
+Found: key of destruction : gray
+Found: colossus voulge : gray
+Found: grand charm : magic
