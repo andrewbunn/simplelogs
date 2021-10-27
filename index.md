@@ -1274,3 +1274,4 @@ failed reading memory
 Found: great poleaxe : gray
 Found: jewel : magic
 Found: grand charm : magic
+Found: hel rune : white
