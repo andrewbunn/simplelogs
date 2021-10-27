@@ -1399,3 +1399,4 @@ Found: jewel : magic
 Found: ring : rare
 Found: grand charm : magic
 Found: jewel : magic
+Found: key of destruction : unique
