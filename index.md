@@ -1308,3 +1308,5 @@ Found: ring : rare
 Found: key of destruction : gray
 Found: archon plate : gray
 Found: key of destruction : white
+Found: key of destruction : white
+Found: jewel : magic
