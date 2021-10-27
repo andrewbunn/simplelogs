@@ -1432,3 +1432,5 @@ Found: flawless amethyst : white
 Found: flawless amethyst : white
 failed reading memory
 failed reading memory
+Found: key of destruction : gray
+Found: jewel : rare
