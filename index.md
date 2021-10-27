@@ -1469,3 +1469,5 @@ failed reading memory
 Found: large charm : magic
 Found: large charm : magic
 Found: amulet : rare
+Found: key of destruction : white
+Found: mal rune : white
