@@ -1213,3 +1213,7 @@ Found: key of destruction : white
 Found: key of destruction : white
 Found: jewel : magic
 Found: key of destruction : gray
+Found: amulet : rare
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
