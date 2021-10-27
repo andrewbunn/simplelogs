@@ -1271,3 +1271,4 @@ Found: small charm : magic
 Found: small charm : magic
 failed reading memory
 failed reading memory
+Found: great poleaxe : gray
