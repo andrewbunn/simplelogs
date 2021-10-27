@@ -1259,3 +1259,6 @@ Found: key of destruction : gray
 Found: jewel : rare
 Found: key of destruction : white
 Found: gul rune : white
+Found: fal rune : white
+Found: small charm : magic
+Found: small charm : magic
