@@ -1389,3 +1389,4 @@ Found: small charm : magic
 Found: grand charm : magic
 Found: grand charm : magic
 Found: grand charm : magic
+Found: amulet : set
