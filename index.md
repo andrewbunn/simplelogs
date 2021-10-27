@@ -1276,3 +1276,6 @@ Found: jewel : magic
 Found: grand charm : magic
 Found: hel rune : white
 Found: amulet : rare
+Found: jewel : magic
+Found: key of destruction : gray
+Found: key of destruction : white
