@@ -1438,3 +1438,5 @@ Found: small charm : magic
 Found: large charm : magic
 failed reading memory
 Found: key of destruction : white
+Found: key of destruction : white
+Found: key of destruction : gray
