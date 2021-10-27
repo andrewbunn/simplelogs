@@ -1368,3 +1368,4 @@ Found: jewel : magic
 Found: jewel : magic
 Found: large charm : magic
 Found: flawless amethyst : white
+Found: key of destruction : gray
