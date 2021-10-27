@@ -1299,3 +1299,6 @@ failed reading memory
 Found: key of destruction : gray
 Found: large charm : magic
 Found: flawless amethyst : white
+Found: thresher : gray
+Found: key of destruction : set
+Found: flawless amethyst : white
