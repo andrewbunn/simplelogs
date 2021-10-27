@@ -1431,3 +1431,4 @@ Found: jewel : rare
 Found: flawless amethyst : white
 Found: flawless amethyst : white
 failed reading memory
+failed reading memory
