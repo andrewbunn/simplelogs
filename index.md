@@ -1454,3 +1454,5 @@ Found: key of destruction : gray
 Found: gul rune : gray
 Found: thresher : unique
 failed reading memory
+Found: key of destruction : white
+Found: key of destruction : gray
