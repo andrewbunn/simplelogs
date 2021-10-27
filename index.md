@@ -1362,3 +1362,4 @@ Found: flawless amethyst : white
 Found: large charm : magic
 failed reading memory
 Found: small charm : magic
+Found: ring : rare
