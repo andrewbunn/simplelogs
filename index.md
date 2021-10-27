@@ -1219,3 +1219,5 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 failed reading memory
 Found: jewel : magic
+Found: small charm : magic
+Found: dol rune : white
