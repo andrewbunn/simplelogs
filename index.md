@@ -1285,3 +1285,4 @@ Found: thresher : gray
 Found: key of destruction : rare
 Found: ist rune : white
 Found: grand charm : magic
+Found: cryptic axe : gray
