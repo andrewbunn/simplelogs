@@ -1387,3 +1387,5 @@ Found: large charm : magic
 Found: demonhide sash : unique
 Found: small charm : magic
 Found: grand charm : magic
+Found: grand charm : magic
+Found: grand charm : magic
