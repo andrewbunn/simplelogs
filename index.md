@@ -1286,3 +1286,8 @@ Found: key of destruction : rare
 Found: ist rune : white
 Found: grand charm : magic
 Found: cryptic axe : gray
+Found: mage plate : gray
+Found: mage plate : gray
+Found: key of destruction : gray
+Found: key of destruction : gray
+Found: small charm : magic
