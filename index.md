@@ -1478,3 +1478,4 @@ failed reading memory
 Found: key of destruction : gray
 Found: amulet : rare
 Found: mal rune : white
+Found: grand charm : magic
