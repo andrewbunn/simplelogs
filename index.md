@@ -1363,3 +1363,4 @@ Found: large charm : magic
 failed reading memory
 Found: small charm : magic
 Found: ring : rare
+failed reading memory
