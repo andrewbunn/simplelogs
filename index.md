@@ -1377,3 +1377,4 @@ failed reading memory
 Found: grand charm : magic
 Found: grand charm : magic
 Found: grand charm : magic
+Found: key of destruction : white
