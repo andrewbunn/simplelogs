@@ -1205,3 +1205,4 @@ Found: small charm : magic
 Found: fal rune : white
 Found: key of destruction : gray
 Found: large charm : magic
+Found: amulet : set
