@@ -1411,3 +1411,4 @@ Found: jewel : magic
 Found: grand charm : magic
 Found: flawless amethyst : white
 failed reading memory
+failed reading memory
