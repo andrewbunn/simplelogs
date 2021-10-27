@@ -1267,3 +1267,4 @@ Found: large charm : magic
 Found: large charm : magic
 Found: key of destruction : unique
 failed reading memory
+Found: small charm : magic
