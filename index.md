@@ -1262,3 +1262,6 @@ Found: gul rune : white
 Found: fal rune : white
 Found: small charm : magic
 Found: small charm : magic
+Found: large charm : magic
+Found: large charm : magic
+Found: large charm : magic
