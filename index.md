@@ -1343,3 +1343,4 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 Found: key of destruction : white
 Found: heavy bracers : set
+Found: large charm : magic
