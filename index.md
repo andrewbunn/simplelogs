@@ -1447,3 +1447,5 @@ Found: gul rune : gray
 Found: amulet : rare
 Found: ring : unique
 Found: gul rune : gray
+Found: grand charm : magic
+Found: archon plate : white
