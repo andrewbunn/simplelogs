@@ -1265,3 +1265,4 @@ Found: small charm : magic
 Found: large charm : magic
 Found: large charm : magic
 Found: large charm : magic
+Found: key of destruction : unique
