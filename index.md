@@ -1444,3 +1444,6 @@ Found: small charm : magic
 Found: key of destruction : white
 Found: flawless amethyst : white
 Found: gul rune : gray
+Found: amulet : rare
+Found: ring : unique
+Found: gul rune : gray
