@@ -1238,3 +1238,5 @@ Found: cryptic axe : gray
 Found: amulet : rare
 Found: ring : rare
 failed reading memory
+Found: key of destruction : white
+Found: key of destruction : white
