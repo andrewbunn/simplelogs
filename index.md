@@ -1366,3 +1366,4 @@ Found: ring : rare
 failed reading memory
 Found: jewel : magic
 Found: jewel : magic
+Found: large charm : magic
