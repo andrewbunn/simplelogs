@@ -1383,3 +1383,4 @@ failed reading memory
 Found: key of destruction : unique
 Found: gul rune : white
 Found: grand charm : magic
+Found: large charm : magic
