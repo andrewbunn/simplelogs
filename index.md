@@ -1243,3 +1243,4 @@ Found: key of destruction : white
 failed reading memory
 failed reading memory
 failed reading memory
+game never loaded
