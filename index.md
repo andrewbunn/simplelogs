@@ -1230,3 +1230,4 @@ Found: flawless amethyst : white
 Found: scarabshell boots : unique
 failed reading memory
 game never loaded
+failed reading memory
