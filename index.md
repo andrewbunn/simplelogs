@@ -1231,3 +1231,4 @@ Found: scarabshell boots : unique
 failed reading memory
 game never loaded
 failed reading memory
+Found: archon plate : white
