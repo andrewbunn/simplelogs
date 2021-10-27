@@ -1449,3 +1449,4 @@ Found: ring : unique
 Found: gul rune : gray
 Found: grand charm : magic
 Found: archon plate : white
+Found: key of destruction : gray
