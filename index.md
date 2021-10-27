@@ -1323,3 +1323,7 @@ Found: jah rune : white
 Found: flawless amethyst : white
 Found: small charm : magic
 Found: amulet : rare
+Found: small charm : magic
+Found: ring : rare
+Found: ring : rare
+Found: amulet : set
