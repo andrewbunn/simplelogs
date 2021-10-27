@@ -1223,3 +1223,5 @@ Found: small charm : magic
 Found: dol rune : white
 Found: small charm : magic
 Found: shako : unique
+Found: key of destruction : gray
+Found: key of destruction : white
