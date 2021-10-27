@@ -1404,3 +1404,4 @@ Found: jewel : magic
 Found: key of destruction : gray
 Found: colossus voulge : gray
 Found: grand charm : magic
+Found: key of destruction : set
