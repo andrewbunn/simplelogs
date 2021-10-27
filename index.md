@@ -1373,3 +1373,4 @@ Found: flawless amethyst : white
 Found: key of destruction : rare
 Found: jah rune : gray
 Found: key of destruction : gray
+failed reading memory
