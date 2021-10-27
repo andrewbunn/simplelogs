@@ -1228,3 +1228,4 @@ Found: key of destruction : white
 Found: monarch : gray
 Found: flawless amethyst : white
 Found: scarabshell boots : unique
+failed reading memory
