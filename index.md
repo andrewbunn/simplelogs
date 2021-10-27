@@ -1322,3 +1322,4 @@ Found: large charm : magic
 Found: jah rune : white
 Found: flawless amethyst : white
 Found: small charm : magic
+Found: amulet : rare
