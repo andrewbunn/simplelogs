@@ -1225,3 +1225,6 @@ Found: small charm : magic
 Found: shako : unique
 Found: key of destruction : gray
 Found: key of destruction : white
+Found: monarch : gray
+Found: flawless amethyst : white
+Found: scarabshell boots : unique
