@@ -1217,3 +1217,4 @@ Found: amulet : rare
 Found: key of destruction : gray
 Found: key of destruction : gray
 Found: key of destruction : gray
+failed reading memory
