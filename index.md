@@ -1396,3 +1396,6 @@ Found: key of destruction : white
 Found: gul rune : white
 failed reading memory
 Found: jewel : magic
+Found: ring : rare
+Found: grand charm : magic
+Found: jewel : magic
