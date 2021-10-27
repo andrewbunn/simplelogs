@@ -1291,3 +1291,5 @@ Found: mage plate : gray
 Found: key of destruction : gray
 Found: key of destruction : gray
 Found: small charm : magic
+Found: large charm : magic
+Found: small charm : magic
