@@ -1473,3 +1473,4 @@ Found: key of destruction : white
 Found: mal rune : white
 Found: key of destruction : white
 d2 lobby never loaded
+failed reading memory
