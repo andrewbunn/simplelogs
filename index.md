@@ -1437,3 +1437,4 @@ Found: jewel : rare
 Found: small charm : magic
 Found: large charm : magic
 failed reading memory
+Found: key of destruction : white
