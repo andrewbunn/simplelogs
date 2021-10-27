@@ -1380,3 +1380,6 @@ Found: grand charm : magic
 Found: key of destruction : white
 Found: grand charm : magic
 failed reading memory
+Found: key of destruction : unique
+Found: gul rune : white
+Found: grand charm : magic
