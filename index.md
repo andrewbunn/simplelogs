@@ -1465,3 +1465,4 @@ Found: gul rune : white
 Found: gul rune : gray
 Found: key of destruction : white
 Found: key of destruction : unique
+failed reading memory
