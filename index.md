@@ -1313,3 +1313,4 @@ Found: jewel : magic
 Found: mal rune : gray
 failed reading memory
 failed reading memory
+Found: mal rune : white
