@@ -1408,3 +1408,4 @@ Found: key of destruction : set
 Found: great poleaxe : gray
 Found: gul rune : gray
 Found: jewel : magic
+Found: grand charm : magic
