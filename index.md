@@ -1477,3 +1477,4 @@ failed reading memory
 failed reading memory
 Found: key of destruction : gray
 Found: amulet : rare
+Found: mal rune : white
