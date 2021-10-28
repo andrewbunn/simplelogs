@@ -1505,3 +1505,4 @@ Found: amulet : rare
 Found: small charm : magic
 Found: phase blade : gray
 Found: key of destruction : white
+Found: colossus voulge : gray
