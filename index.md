@@ -1491,3 +1491,6 @@ Found: large charm : magic
 Found: tiara : rare
 Found: flawless amethyst : white
 Found: grand charm : magic
+Found: large charm : magic
+Found: phase blade : gray
+Found: large charm : magic
