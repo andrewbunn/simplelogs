@@ -1482,3 +1482,4 @@ Found: grand charm : magic
 Found: ring : rare
 Found: large charm : magic
 Found: key of destruction : white
+Found: jewel : magic
