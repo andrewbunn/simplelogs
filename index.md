@@ -1632,3 +1632,5 @@ Found: flawless amethyst : white
 Found: key of destruction : gray
 Found: small charm : magic
 Found: key of destruction : white
+Found: large charm : magic
+Found: amulet : set
