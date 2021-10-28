@@ -1537,3 +1537,7 @@ Found: gul rune : gray
 Found: grand charm : magic
 Found: grand charm : magic
 Found: small charm : magic
+Found: large charm : magic
+Found: grand charm : magic
+Found: flawless amethyst : white
+Found: swirling crystal : unique
