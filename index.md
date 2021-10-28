@@ -1598,3 +1598,4 @@ Found: jewel : magic
 Found: large charm : magic
 Found: jewel : magic
 Found: mal rune : white
+Found: jewel : magic
