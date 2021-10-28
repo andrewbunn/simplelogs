@@ -1624,3 +1624,5 @@ Found: key of destruction : gray
 Found: hel rune : white
 Found: jewel : magic
 Found: mal rune : white
+Found: ring : rare
+Found: scarabshell boots : unique
