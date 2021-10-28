@@ -1603,3 +1603,5 @@ Found: small charm : magic
 Found: flawless amethyst : white
 Found: ring : rare
 Found: key of destruction : white
+Found: key of destruction : gray
+Found: flawless amethyst : white
