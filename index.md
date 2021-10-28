@@ -1506,3 +1506,7 @@ Found: small charm : magic
 Found: phase blade : gray
 Found: key of destruction : white
 Found: colossus voulge : gray
+Found: amulet : rare
+Found: amulet : rare
+Found: fal rune : rare
+Found: key of destruction : white
