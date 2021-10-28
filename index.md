@@ -1557,3 +1557,5 @@ Found: small charm : magic
 failed reading memory
 Found: hel rune : white
 failed reading memory
+Found: key of destruction : unique
+Found: thresher : gray
