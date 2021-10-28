@@ -1653,3 +1653,4 @@ Found: key of destruction : unique
 Found: small charm : magic
 Found: monarch : gray
 Found: gul rune : gray
+Found: small charm : magic
