@@ -1572,3 +1572,4 @@ Found: flawless amethyst : white
 Found: flawless amethyst : white
 Found: grand charm : magic
 failed reading memory
+failed reading memory
