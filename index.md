@@ -1642,3 +1642,6 @@ Found: grand charm : magic
 Found: key of destruction : gray
 Found: amulet : set
 Found: ceremonial javelin : unique
+Found: jewel : magic
+Found: key of destruction : gray
+Found: large charm : magic
