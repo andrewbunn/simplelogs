@@ -1599,3 +1599,6 @@ Found: large charm : magic
 Found: jewel : magic
 Found: mal rune : white
 Found: jewel : magic
+Found: small charm : magic
+Found: flawless amethyst : white
+Found: ring : rare
