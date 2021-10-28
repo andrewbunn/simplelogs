@@ -1622,3 +1622,4 @@ Found: jah rune : white
 Found: amulet : rare
 Found: key of destruction : gray
 Found: hel rune : white
+Found: jewel : magic
