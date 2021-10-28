@@ -1490,3 +1490,4 @@ Found: key of destruction : gray
 Found: large charm : magic
 Found: tiara : rare
 Found: flawless amethyst : white
+Found: grand charm : magic
