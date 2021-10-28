@@ -1498,3 +1498,5 @@ Found: key of destruction : set
 d2 lobby never loaded
 failed reading memory
 Found: small charm : magic
+Found: small charm : magic
+Found: small charm : magic
