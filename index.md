@@ -1589,3 +1589,6 @@ Found: ring : unique
 Found: grand charm : magic
 Found: mal rune : white
 Found: large charm : magic
+Found: key of destruction : unique
+Found: amulet : set
+Found: amulet : set
