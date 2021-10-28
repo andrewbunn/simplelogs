@@ -1555,3 +1555,5 @@ Found: large charm : magic
 failed reading memory
 Found: small charm : magic
 failed reading memory
+Found: hel rune : white
+failed reading memory
