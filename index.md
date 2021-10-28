@@ -1559,3 +1559,5 @@ Found: hel rune : white
 failed reading memory
 Found: key of destruction : unique
 Found: thresher : gray
+Found: key of destruction : white
+Found: grand charm : magic
