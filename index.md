@@ -1530,3 +1530,6 @@ failed reading memory
 Found: large charm : magic
 Found: large charm : magic
 Found: flawless amethyst : white
+Found: scourge : unique
+Found: grand charm : magic
+Found: hel rune : gray
