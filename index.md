@@ -1519,3 +1519,5 @@ failed reading memory
 failed reading memory
 failed reading memory
 Found: small charm : magic
+Found: key of destruction : white
+Found: large charm : magic
