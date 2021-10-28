@@ -1488,3 +1488,5 @@ Found: gul rune : gray
 Found: large charm : magic
 Found: key of destruction : gray
 Found: large charm : magic
+Found: tiara : rare
+Found: flawless amethyst : white
