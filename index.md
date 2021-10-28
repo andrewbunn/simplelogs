@@ -1637,3 +1637,5 @@ Found: amulet : set
 Found: cryptic axe : gray
 Found: jewel : magic
 Found: large charm : magic
+Found: jewel : magic
+Found: grand charm : magic
