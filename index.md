@@ -1487,3 +1487,4 @@ Found: gul rune : gray
 Found: gul rune : gray
 Found: large charm : magic
 Found: key of destruction : gray
+Found: large charm : magic
