@@ -1494,3 +1494,5 @@ Found: grand charm : magic
 Found: large charm : magic
 Found: phase blade : gray
 Found: large charm : magic
+Found: key of destruction : set
+d2 lobby never loaded
