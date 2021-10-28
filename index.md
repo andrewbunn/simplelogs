@@ -1536,3 +1536,4 @@ Found: hel rune : gray
 Found: gul rune : gray
 Found: grand charm : magic
 Found: grand charm : magic
+Found: small charm : magic
