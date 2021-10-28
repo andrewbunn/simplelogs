@@ -1634,3 +1634,6 @@ Found: small charm : magic
 Found: key of destruction : white
 Found: large charm : magic
 Found: amulet : set
+Found: cryptic axe : gray
+Found: jewel : magic
+Found: large charm : magic
