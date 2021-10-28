@@ -1649,3 +1649,7 @@ Found: small charm : magic
 failed reading memory
 Found: key of destruction : unique
 failed reading memory
+Found: key of destruction : unique
+Found: small charm : magic
+Found: monarch : gray
+Found: gul rune : gray
