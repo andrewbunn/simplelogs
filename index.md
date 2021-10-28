@@ -1576,3 +1576,4 @@ failed reading memory
 game never loaded
 Found: jewel : magic
 Found: key of destruction : white
+Found: ring : unique
