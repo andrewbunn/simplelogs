@@ -1541,3 +1541,5 @@ Found: large charm : magic
 Found: grand charm : magic
 Found: flawless amethyst : white
 Found: swirling crystal : unique
+Found: ring : rare
+Found: key of destruction : white
