@@ -1565,3 +1565,6 @@ Found: key of destruction : gray
 Found: small charm : magic
 Found: hel rune : white
 Found: hel rune : gray
+Found: jewel : magic
+Found: grand charm : magic
+Found: grand charm : magic
