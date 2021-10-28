@@ -1587,3 +1587,4 @@ Found: key of destruction : gray
 Found: key of destruction : gray
 Found: ring : unique
 Found: grand charm : magic
+Found: mal rune : white
