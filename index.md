@@ -1595,3 +1595,6 @@ Found: amulet : set
 Found: key of destruction : white
 Found: small charm : magic
 Found: jewel : magic
+Found: large charm : magic
+Found: jewel : magic
+Found: mal rune : white
