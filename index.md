@@ -1483,3 +1483,6 @@ Found: ring : rare
 Found: large charm : magic
 Found: key of destruction : white
 Found: jewel : magic
+Found: gul rune : gray
+Found: gul rune : gray
+Found: large charm : magic
