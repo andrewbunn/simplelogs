@@ -1510,3 +1510,4 @@ Found: amulet : rare
 Found: amulet : rare
 Found: fal rune : rare
 Found: key of destruction : white
+Found: flawless amethyst : white
