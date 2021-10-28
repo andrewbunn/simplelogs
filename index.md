@@ -1500,3 +1500,5 @@ failed reading memory
 Found: small charm : magic
 Found: small charm : magic
 Found: small charm : magic
+Found: large charm : magic
+Found: amulet : rare
