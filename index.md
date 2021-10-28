@@ -1627,3 +1627,4 @@ Found: mal rune : white
 Found: ring : rare
 Found: scarabshell boots : unique
 Found: jewel : magic
+Found: ring : rare
