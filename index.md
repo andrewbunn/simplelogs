@@ -1578,3 +1578,4 @@ Found: jewel : magic
 Found: key of destruction : white
 Found: ring : unique
 Found: jewel : magic
+Found: small charm : magic
