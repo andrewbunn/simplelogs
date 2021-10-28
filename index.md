@@ -1645,3 +1645,5 @@ Found: ceremonial javelin : unique
 Found: jewel : magic
 Found: key of destruction : gray
 Found: large charm : magic
+Found: small charm : magic
+failed reading memory
