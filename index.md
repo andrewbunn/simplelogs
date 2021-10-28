@@ -1629,3 +1629,4 @@ Found: scarabshell boots : unique
 Found: jewel : magic
 Found: ring : rare
 Found: flawless amethyst : white
+Found: key of destruction : gray
