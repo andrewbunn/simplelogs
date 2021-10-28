@@ -1615,3 +1615,4 @@ Found: ring : rare
 Found: ring : rare
 Found: key of destruction : gray
 Found: key of destruction : gray
+Found: jewel : magic
