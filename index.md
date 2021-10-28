@@ -1511,3 +1511,6 @@ Found: amulet : rare
 Found: fal rune : rare
 Found: key of destruction : white
 Found: flawless amethyst : white
+Found: grand charm : magic
+Found: large charm : magic
+Found: grand charm : magic
