@@ -1543,3 +1543,7 @@ Found: flawless amethyst : white
 Found: swirling crystal : unique
 Found: ring : rare
 Found: key of destruction : white
+Found: flawless amethyst : white
+Found: jah rune : gray
+Found: small charm : magic
+Found: key of destruction : white
