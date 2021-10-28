@@ -1584,3 +1584,5 @@ Found: war belt : unique
 Found: key of destruction : white
 Found: flawless amethyst : white
 Found: key of destruction : gray
+Found: key of destruction : gray
+Found: ring : unique
