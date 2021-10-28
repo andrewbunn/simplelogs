@@ -1581,3 +1581,6 @@ Found: jewel : magic
 Found: small charm : magic
 Found: key of destruction : white
 Found: war belt : unique
+Found: key of destruction : white
+Found: flawless amethyst : white
+Found: key of destruction : gray
