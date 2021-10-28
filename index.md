@@ -1562,3 +1562,6 @@ Found: thresher : gray
 Found: key of destruction : white
 Found: grand charm : magic
 Found: key of destruction : gray
+Found: small charm : magic
+Found: hel rune : white
+Found: hel rune : gray
